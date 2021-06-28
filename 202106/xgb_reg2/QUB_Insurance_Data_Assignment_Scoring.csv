@@ -1,0 +1,1092 @@
+CustomerID,Title,GivenName,MiddleInitial,Surname,CreditCardType,Occupation,Gender,Age,Location,MotorInsurance,MotorValue,MotorType,HealthInsurance,HealthType,HealthDependentsAdults,HealthDependentsKids,TravelInsurance,TravelType
+3,Mr.,Niall,T,Graham,AMEX,Biophysicist,male,52,Urban,Yes,17274,Single,No,,,,No,
+6,Mr.,Harry,L,McDonald,AMEX,Stevedore,male,49,Rural,Yes,11735,Single,Yes,Level1,2,3,Yes,Business
+7,Dr.,Chanelle,L,Hay,AMEX,,female,18,Urban,Yes,4884,Bundle,No,,,,Yes,Backpacker
+8,Ms.,Alexandra,J,Ross,AMEX,,female,48,Urban,Yes,13879,Single,Yes,Level1,1,3,No,
+9,Mr.,Bailey,T,Atkinson,,,male,49,Rural,Yes,17294,Single,Yes,Level2,1,3,Yes,Standard
+10,Dr.,Lily,D,Smart,AMEX,Physical therapist,female,20,Urban,Yes,4934,Single,No,,,,Yes,Premium
+12,Mr.,Benjamin,I,Howard,Visa,Sampler,male,-48,Urban,No,,,No,,,,Yes,Business
+15,Mr.,Bradley,J,Kelly,AMEX,Principal secretary,male,52,Urban,No,,,Yes,Level2,2,2,Yes,Standard
+25,Ms.,Anya,J,McIntyre,AMEX,,female,20,Urban,Yes,5228,Bundle,No,,,,Yes,Premium
+34,Mr.,Kiran,K,Sutherland,AMEX,Multiple machine tool tender,male,47,Rural,Yes,32809,Single,Yes,Level2,2,2,Yes,Standard
+46,Mr.,George,H,Fry,Visa,Pointer,male,56,Rural,Yes,16342,Single,Yes,Level1,0,2,No,
+47,Mr.,Jesse,E,Hill,AMEX,Clerical specialist,male,19,Urban,Yes,4926,Bundle,No,,,,Yes,Standard
+52,Mr.,Bradley,C,Parry,Visa,Organizational economist,male,49,Urban,Yes,35555,Single,Yes,Level1,1,3,Yes,Business
+53,Ms.,Melissa,M,Alexander,AMEX,,female,18,Urban,Yes,29236,Bundle,No,,,,No,
+56,Mr.,Rian,F,Martin,AMEX,Licensed clinical social worker,male,24,Rural,Yes,28073,Bundle,No,,,,Yes,Premium
+58,Ms.,Lea,M,Mitchell,,Range manager,female,52,Rural,Yes,10882,Single,No,,,,Yes,Backpacker
+61,Mr.,Adam,S,Wilkinson,Visa,Placement counselor,male,20,Rural,Yes,30069,Bundle,No,,,,Yes,Business
+64,Mr.,Kalvin,F,Robertson,Visa,,male,21,Urban,Yes,19593,Bundle,No,,,,No,
+75,Ms.,Kenzie,A,Ferguson,Visa,Procurement technician,female,55,Urban,Yes,34548,Single,No,,,,Yes,Premium
+76,Ms.,Ayla,K,Burns,Visa,,female,44,Urban,Yes,33979,Single,No,,,,No,
+80,Mr.,Aron,K,Wilson,,,male,18,Rural,Yes,23717,Bundle,No,,,,Yes,Premium
+98,Mrs.,Eva,E,Burgess,AMEX,Apparel worker,female,49,Urban,Yes,32615,Bundle,Yes,Level2,1,2,No,
+103,Ms.,Gabrielle,A,Anderson,AMEX,Construction inspector,female,47,Urban,Yes,34443,Single,Yes,Level1,1,2,Yes,Standard
+115,Mr.,Piotr,F,Thomson,,Choreographer,male,22,Urban,Yes,4953,Bundle,Yes,Level1,0,0,Yes,Premium
+116,Dr.,Kayleigh,M,Docherty,AMEX,,female,47,Urban,Yes,32265,Single,Yes,Level2,1,2,Yes,Business
+118,Mr.,Sebastian,S,Bryant,AMEX,Support staff clerk,male,49,Rural,No,,,No,,,,No,
+120,Mrs.,Cerys,B,Holt,Visa,Singer,female,20,Rural,Yes,28611,Bundle,Yes,Level1,1,0,Yes,Business
+124,Mrs.,Niamh,A,Kaur,AMEX,Bindery machine setter,female,20,Urban,Yes,30601,Bundle,No,,,,No,
+134,Ms.,Darcy,S,Reilly,AMEX,,female,21,Urban,Yes,38049,Bundle,No,,,,Yes,Business
+139,Mr.,Michael,C,Mackenzie,Visa,Forest fire prevention specialist,male,50,Rural,No,,,No,,,,No,
+140,Dr.,Sophie,R,West,AMEX,Pediatrician,female,50,Rural,Yes,11777,Single,Yes,Level1,1,2,No,
+146,Mr.,Warren,Z,Simpson,Visa,Prosecutor,male,47,Rural,No,,,Yes,Level2,1,2,No,
+147,Ms.,Casey,L,Reilly,AMEX,,female,45,Urban,Yes,31407,Single,Yes,Level3,1,2,No,
+148,Mrs.,Mia,S,Holmes,Visa,Apartment leasing agent,female,18,Urban,Yes,4762,Single,No,,,,No,
+150,Ms.,Lexi,F,Ross,AMEX,Linguistic anthropologist,female,21,Urban,Yes,5113,Bundle,No,,,,No,
+157,Mrs.,Kimberley,R,Young,AMEX,,female,49,Rural,Yes,11582,Single,No,,,,Yes,Standard
+163,Mr.,Filip,E,Morrison,Visa,,male,51,Urban,Yes,11952,Single,Yes,Level2,1,3,No,
+164,Ms.,Hayden,C,Craig,,Municipal court judge,female,51,Urban,Yes,12244,Single,Yes,Level1,1,3,Yes,Standard
+166,Mr.,Leon,K,Cameron,AMEX,,male,19,Rural,No,,,No,,,,Yes,Backpacker
+172,Mrs.,Mia,H,Douglas,AMEX,,female,48,Urban,Yes,12672,Single,No,,,,No,
+173,Mr.,Thomas,A,Kelly,AMEX,Nephrology nurse,male,20,Urban,No,,,No,,,,No,
+174,Dr.,Baillie,D,McMillan,Visa,Training specialist,male,44,Urban,Yes,24569,Single,Yes,Level2,1,3,Yes,Business
+179,Mr.,Luke,G,Freeman,,Industrial designer,male,47,Urban,Yes,38518,Single,Yes,Level3,1,3,No,
+183,Mrs.,Isla,H,Morrison,AMEX,,female,18,Urban,Yes,29502,Bundle,Yes,Level1,0,0,Yes,Backpacker
+186,Mrs.,Calleigh,A,Wright,AMEX,Electronics technician,female,49,Rural,Yes,15104,Single,No,,,,No,
+188,Mrs.,Jennifer,J,Baker,,Dot etcher,female,22,Rural,Yes,25991,Bundle,No,,,,Yes,Standard
+191,Mrs.,Lena,D,Douglas,Visa,Small engine service technician,female,19,Urban,Yes,4557,Bundle,No,,,,No,
+192,Ms.,Natasha,O,Short,AMEX,Clerical supervisor,female,50,Urban,No,,,Yes,Level3,1,2,No,
+195,Ms.,Amna,S,Robertson,,Dinkey operator,female,46,Rural,Yes,17668,Single,Yes,Level2,1,2,No,
+196,Mrs.,Anne,F,Thomson,Visa,,female,21,Rural,No,,,Yes,Level1,0,0,Yes,Business
+198,Mr.,Dale,N,King,AMEX,Employee development manager,male,48,Rural,Yes,17543,Single,Yes,Level2,1,3,No,
+204,Mrs.,Isabelle,K,Leonard,AMEX,,female,49,Rural,Yes,16634,Single,Yes,Level1,1,2,No,
+205,Mr.,Bailey,A,Butler,AMEX,Coin vending and amusement machine servicer,male,42,Rural,Yes,28102,Single,No,,,,No,
+206,Mr.,Frank,H,Mitchell,Visa,,male,18,Urban,No,,,No,,,,Yes,Backpacker
+208,Mr.,Hamza,E,Murray,Visa,Bench technician,male,52,Rural,Yes,19088,Single,Yes,Level2,2,3,No,
+209,Mr.,Tyler,J,Storey,,,male,51,Rural,Yes,35308,Bundle,Yes,Level2,1,2,No,
+212,Mr.,Oliver,E,Webster,Visa,Signal and track switch repairer,male,22,Urban,No,,,Yes,Level3,0,0,Yes,Backpacker
+215,Mr.,Ryan,S,Matthews,Visa,Rooms manager,male,20,Rural,Yes,28514,Bundle,Yes,Level1,0,0,Yes,Standard
+220,Mr.,Christian,A,Murphy,AMEX,Corporate office services manager,male,24,Urban,Yes,4871,Bundle,No,,,,No,
+223,Ms.,Ellie,G,Craig,Visa,Information systems manager,female,64,Urban,Yes,25398,Bundle,Yes,Level3,0,0,Yes,Senior
+225,Ms.,Aleah,K,Ritchie,AMEX,Shipping-and-receiving supervisor,female,46,Urban,Yes,34369,Single,Yes,Level1,0,2,No,
+234,Mr.,Stuart,I,Maclean,Visa,Marketing research analyst,male,51,Urban,Yes,11896,Single,Yes,Level2,1,2,No,
+239,Mrs.,Amelia,A,Vincent,,Rental manager,female,50,Urban,Yes,35482,Single,Yes,Level2,1,3,Yes,Business
+241,Mr.,Riley,K,Iqbal,AMEX,Gas and water service dispatcher,male,47,Rural,Yes,13122,Single,Yes,Level2,1,3,Yes,Standard
+245,Mrs.,Ruby,C,Johnston,AMEX,Dispensing optician,female,51,Rural,Yes,15717,Single,Yes,Level2,0,2,No,
+251,Ms.,Charli,H,Boyle,Visa,Service technician,female,48,Rural,Yes,20489,Single,Yes,Level3,1,2,No,
+252,Mrs.,Mia,C,Hart,Visa,Administrator,female,20,Rural,Yes,31022,Bundle,No,,,,Yes,Backpacker
+253,Ms.,Rosie,D,Bell,AMEX,Loss prevention agent,female,55,Rural,Yes,13965,Single,No,,,,No,
+261,Dr.,Morgan,L,Richards,,Mason,male,24,Urban,Yes,24890,Bundle,No,,,,Yes,Business
+265,Mrs.,Lori,F,Gibson,,National account executive,female,49,Rural,No,,,Yes,Level2,1,2,Yes,Standard
+272,Mr.,Ronan,K,Hay,Visa,,male,49,Urban,Yes,33303,Single,Yes,Level3,2,2,Yes,Business
+274,Mrs.,Jasmine,C,Christie,Visa,DJ,female,45,Rural,Yes,30486,Single,Yes,Level3,0,2,Yes,Business
+279,Mrs.,Alisha,M,McDonald,,Pesticide handler,female,21,Rural,Yes,23360,Bundle,No,,,,Yes,Premium
+284,Mr.,Finlay,D,MacDonald,,Secretarial assistant,male,47,Urban,Yes,35360,Single,No,,,,No,
+287,Mrs.,Eloise,H,Brown,AMEX,Arbitrator,female,49,Rural,Yes,36052,Single,Yes,Level2,1,2,Yes,Standard
+298,Mr.,Ewan,B,Cunningham,,Electrical and electronics installer,male,47,Rural,Yes,8560,Single,No,,,,Yes,Standard
+300,Mr.,Henry,E,Carroll,,Blaster,male,22,Rural,Yes,5037,Bundle,No,,,,Yes,Premium
+312,Mrs.,Bethany,M,Ahmed,,Homemaker,female,64,Rural,No,,,Yes,Level3,1,0,No,
+321,Mrs.,Tia,O,Savage,AMEX,Legal investigator,female,51,Rural,No,,,Yes,Level2,0,2,Yes,Standard
+323,Mrs.,Kirsten,V,Clark,Visa,Automotive air-conditioning repairer,female,52,Rural,Yes,16814,Single,Yes,Level2,1,2,No,
+332,Ms.,Zoe,J,Robertson,Visa,,female,20,Urban,No,,,No,,,,Yes,Backpacker
+333,Mr.,William,A,Cooke,Visa,,male,70,Rural,No,,,Yes,Level3,1,0,No,
+336,Ms.,Ava,D,Kerr,Visa,Executive chef,female,19,Urban,No,,,No,,,,No,
+342,Mrs.,Michaela,W,Young,Visa,,female,22,Urban,Yes,5152,Bundle,Yes,Level1,0,0,No,
+366,Mr.,Zac,M,Taylor,Visa,,male,47,Urban,No,,,Yes,Level1,2,3,No,
+371,Mrs.,Sophia,L,Lewis,Visa,Sales worker supervisor,female,47,Rural,Yes,36605,Single,Yes,Level3,1,3,No,
+373,Mr.,Robert,D,Reilly,,Information processing worker,male,49,Urban,Yes,29683,Single,Yes,Level1,0,3,Yes,Business
+376,Ms.,Sara,A,Wilson,Visa,Gerontologist,female,19,Urban,Yes,25759,Bundle,No,,,,Yes,Premium
+378,Mr.,Bruce,A,Simpson,,Laboratory animal technologist,male,50,Urban,Yes,34722,Single,Yes,Level3,1,2,Yes,Standard
+379,Mr.,Innes,M,Simpson,Visa,Aircraft cargo handling supervisor,male,48,Urban,Yes,17200,Single,Yes,Level3,1,2,No,
+381,Mrs.,Ailie,F,Sinclair,,,female,48,Urban,Yes,33654,Single,Yes,Level2,1,2,Yes,Business
+383,Ms.,Tyler,M,Smith,Visa,,female,18,Urban,Yes,21441,Bundle,No,,,,No,
+385,Mr.,Brandon,M,Bruce,AMEX,Surveying technician,male,53,Rural,Yes,12904,Single,Yes,Level2,0,2,No,
+386,Mr.,Kody,N,Sinclair,AMEX,Human resources assistant,male,48,Urban,Yes,28138,Single,No,,,,Yes,Business
+388,Ms.,Aaliyah,Z,Hughes,AMEX,Administrative clerk,female,42,Urban,Yes,34297,Single,Yes,Level2,1,2,Yes,Business
+390,Ms.,Emma,R,Saunders,,Press agent,female,18,Urban,Yes,5195,Single,No,,,,No,
+391,Mrs.,Leigha,E,Burns,AMEX,,female,50,Rural,Yes,18001,Single,Yes,Level2,0,2,Yes,Standard
+395,Mr.,Joe,O,Kennedy,,,male,45,Urban,Yes,30497,Single,No,,,,No,
+397,Mr.,Brandon,A,Morton,AMEX,Rotary drill operator,male,50,Rural,Yes,16695,Single,Yes,Level2,0,3,No,
+410,Mrs.,Isabella,L,Payne,AMEX,,female,51,Rural,Yes,15121,Single,No,,,,No,
+413,Ms.,Rosa,G,Munro,AMEX,,female,48,Urban,Yes,8343,Single,Yes,Level2,2,2,No,
+422,Mrs.,Rachel,L,Wallis,AMEX,Electronics engineer,female,23,Urban,Yes,23661,Bundle,No,,,,Yes,Premium
+423,Dr.,Lewis,E,Slater,AMEX,,male,44,Urban,Yes,40577,Single,Yes,Level2,0,3,Yes,Business
+428,Mrs.,Eva,H,Barnett,Visa,Animal control worker,female,18,Rural,No,,,No,,,,Yes,Premium
+429,Mr.,David,M,Martin,Visa,Landlord,male,66,Rural,Yes,35394,Bundle,Yes,Level3,0,0,Yes,Senior
+434,Mrs.,Eloise,J,Sharpe,AMEX,Nursing assistant,female,72,Rural,No,,,Yes,Level3,0,0,Yes,Senior
+444,Mrs.,Lola,C,Dodd,AMEX,Landscape contractor,female,49,Rural,Yes,16202,Single,Yes,Level2,2,3,No,
+449,Mr.,Bryn,J,Craig,,,male,19,Urban,Yes,22048,Bundle,No,,,,Yes,Business
+450,Mr.,Brad,L,McGregor,,Risk manager,male,49,Urban,Yes,36931,Single,No,,,,No,
+453,Mr.,Kaden,A,McMillan,Visa,Student affairs administrator,male,41,Rural,Yes,16547,Single,No,,,,No,
+454,Ms.,Abbie,O,Leach,AMEX,Loading machine operator,female,49,Rural,Yes,19949,Single,Yes,Level3,1,2,No,
+456,Ms.,Brooke,L,Hobbs,AMEX,,female,50,Urban,Yes,33191,Single,Yes,Level1,0,2,Yes,Backpacker
+460,Mr.,Mathew,L,Donaldson,Visa,Process technician,male,19,Urban,Yes,5187,Bundle,No,,,,No,
+463,Mr.,Nathan,I,Docherty,AMEX,Botanist,male,48,Rural,Yes,10215,Single,Yes,Level1,1,3,No,
+464,Mrs.,Miriam,K,Stevenson,Visa,,female,20,Urban,No,,,No,,,,No,
+465,Mr.,Kane,A,McIntosh,Visa,,male,18,Urban,Yes,22488,Bundle,No,,,,Yes,Backpacker
+467,Mrs.,Michelle,J,Hay,,,female,45,Urban,Yes,37734,Bundle,Yes,Level2,1,2,No,
+468,Dr.,Sally,M,Wright,,Labor economist,female,45,Rural,Yes,17282,Single,Yes,Level2,0,2,Yes,Business
+470,Mrs.,Melissa,M,McMillan,AMEX,,female,63,Rural,Yes,28781,Single,Yes,Level3,0,0,Yes,Senior
+471,Mr.,Rory,N,Clark,Visa,Licensed clinical social worker,male,52,Urban,Yes,15969,Single,Yes,Level2,0,3,No,
+472,Ms.,Maeve,B,Ferguson,,Airbrush artist,female,49,Rural,Yes,35473,Bundle,Yes,Level2,0,3,No,
+478,Ms.,Elise,L,Donnelly,AMEX,Osteopathic surgeon,female,54,Rural,Yes,8981,Single,Yes,Level2,0,2,Yes,Business
+481,Mr.,Beau,M,Moore,AMEX,Machine offbearer,male,74,Rural,Yes,30142,Single,Yes,Level2,1,0,Yes,Senior
+483,Ms.,Lily-rose,A,McKay,AMEX,,female,62,Urban,No,,,Yes,Level3,1,0,Yes,Backpacker
+486,Mr.,Paul,F,Clark,,Plating and coating machine operator,male,23,Urban,Yes,4975,Bundle,No,,,,Yes,Premium
+488,Mr.,Kenzie,C,Docherty,AMEX,,male,68,Urban,Yes,24402,Single,Yes,Level3,1,0,No,
+493,Mr.,Lewis,H,Ford,,Technical education teacher,male,24,Rural,Yes,28318,Bundle,No,,,,Yes,Business
+499,Mrs.,Kimberly,S,Allan,AMEX,,female,55,Urban,Yes,13741,Single,No,,,,No,
+502,Mrs.,Matilda,B,Douglas,,Recreation supervisor,female,41,Urban,Yes,29717,Single,Yes,Level2,0,2,No,
+505,Mr.,Luis,J,Davidson,Visa,Magnetic resonance (MR) technologist,male,48,Rural,Yes,37717,Single,No,,,,Yes,Premium
+507,Ms.,Paige,C,Gallagher,AMEX,Construction cost estimator,female,50,Urban,Yes,33542,Single,Yes,Level2,1,2,Yes,Standard
+528,Mr.,Spencer,E,Taylor,Visa,Geropsychologist,male,37,Rural,Yes,34062,Single,No,,,,Yes,Backpacker
+530,Mr.,Warren,K,Donaldson,AMEX,Budget officer,male,47,Urban,Yes,37271,Single,Yes,Level2,1,3,Yes,Business
+540,Mr.,Muhammad,B,Schofield,,File clerk,male,47,Urban,Yes,31429,Single,Yes,Level3,1,3,No,
+551,Mrs.,Isabella,R,Lees,Visa,,female,47,Urban,Yes,18941,Single,Yes,Level2,1,2,Yes,Standard
+555,Mr.,Logan,E,Winter,AMEX,,male,66,Urban,No,,,No,,,,Yes,Business
+556,Mr.,Isaac,G,Fowler,Visa,,male,47,Urban,Yes,40133,Single,Yes,Level1,1,2,No,
+567,Mrs.,Louisa,H,Davidson,AMEX,Construction manager,female,48,Urban,No,,,No,,,,No,
+569,Mr.,Patrick,H,Mitchell,AMEX,Government auditor,male,49,Rural,Yes,13328,Single,Yes,Level1,1,2,No,
+572,Mrs.,Madison,K,Donnelly,Visa,,female,48,Urban,Yes,29721,Single,Yes,Level3,1,3,No,
+578,Mrs.,Casey,C,Graham,Visa,,female,19,Urban,Yes,22805,Bundle,No,,,,Yes,Business
+591,Ms.,Yasmin,R,Cross,Visa,Molding coremaking and casting machine operator,female,47,Urban,Yes,34234,Single,Yes,Level3,1,2,No,
+593,Mr.,Toby,I,Ross,Visa,Funeral manager,male,43,Urban,Yes,29894,Single,Yes,Level3,0,3,No,
+601,Mr.,Darren,H,Milne,AMEX,Respiratory therapist,male,20,Rural,Yes,22489,Bundle,No,,,,Yes,Business
+607,Mr.,Jamie,M,Hammond,AMEX,Horse trainer,male,23,Rural,Yes,23054,Bundle,Yes,Level2,1,0,Yes,Business
+616,Mr.,George,J,Preston,AMEX,Religious activities and education director,male,50,Rural,No,,,Yes,Level2,1,2,Yes,Backpacker
+619,Mr.,Dylan,J,Young,AMEX,Clinical laboratory scientist,male,22,Urban,Yes,4918,Single,No,,,,Yes,Business
+621,Mr.,Colin,E,Douglas,AMEX,Foot doctor,male,47,Urban,No,,,Yes,Level2,2,3,Yes,Business
+625,Ms.,Cora,J,Jones,,,female,50,Urban,Yes,12822,Single,Yes,Level1,1,2,No,
+637,Mr.,Travis,A,Christie,AMEX,Trapper,male,51,Rural,Yes,17495,Single,Yes,Level3,1,3,Yes,Standard
+639,Mrs.,Eloise,B,Holloway,AMEX,,female,23,Urban,Yes,5086,Bundle,No,,,,Yes,Backpacker
+642,Mr.,Finlay,S,Bell,Visa,Shipping-and-receiving supervisor,male,46,Rural,Yes,16825,Single,Yes,Level2,1,3,No,
+644,Mrs.,Hannah,M,Munro,AMEX,,female,48,Urban,Yes,33573,Single,Yes,Level2,1,2,Yes,Business
+646,Ms.,Nieve,F,Thompson,AMEX,Medical record coder,female,50,Urban,No,,,Yes,Level2,2,2,Yes,Business
+648,Mr.,Nicolas,A,Johnstone,,Sociocultural anthropologist,male,19,Urban,Yes,4637,Single,Yes,Level2,0,0,No,
+652,Mrs.,Rachel,F,Gray,AMEX,,female,22,Rural,No,,,No,,,,No,
+653,Mr.,Calvin,K,Boyle,AMEX,Product development manager,male,18,Urban,No,,,Yes,Level2,0,0,No,
+660,Mr.,Flynn,M,Boyle,AMEX,Costume designer,male,43,Urban,Yes,33648,Single,No,,,,Yes,Business
+663,Mr.,Ewan,S,Hobbs,Visa,Golf course architect,male,21,Urban,No,,,No,,,,No,
+666,Ms.,Inaaya,C,Forbes,AMEX,CPA,female,49,Urban,Yes,36405,Single,No,,,,No,
+670,Mr.,Logan,C,Jamieson,AMEX,Convention services manager,male,48,Urban,Yes,44786,Single,Yes,Level3,1,3,No,
+671,Mrs.,Aleksandra,M,Boyle,AMEX,,female,47,Urban,Yes,18613,Single,Yes,Level2,2,3,No,
+676,Mrs.,Murrin,B,Russell,AMEX,Closed captioner,female,51,Rural,Yes,12320,Single,No,,,,No,
+681,Mrs.,Tegan,R,Holland,AMEX,,female,21,Urban,Yes,4905,Bundle,No,,,,No,
+683,Mrs.,Lara,S,Murphy,AMEX,Loan underwriter,female,51,Rural,Yes,17953,Bundle,Yes,Level2,2,2,No,
+688,Ms.,Cerys,T,Curtis,,,female,49,Rural,Yes,20485,Single,Yes,Level3,1,3,No,
+689,Mr.,Scott,I,Bray,AMEX,,male,45,Rural,Yes,10654,Single,Yes,Level3,1,3,No,
+695,Mr.,Dylan,L,Cunningham,Visa,Software engineer,male,77,Rural,Yes,28979,Single,Yes,Level3,0,0,Yes,Senior
+705,Mrs.,Alix,A,Johnstone,AMEX,Holistic nurse,female,46,Rural,Yes,19207,Single,Yes,Level2,1,2,Yes,Standard
+709,Ms.,Millie,L,Rhodes,Visa,Computer operator,female,22,Rural,No,,,No,,,,No,
+716,Mr.,Tyler,V,Sullivan,AMEX,,male,18,Rural,Yes,5188,Bundle,Yes,Level1,0,0,Yes,Backpacker
+718,Mr.,Rayyan,M,McGregor,Visa,Purchasing technician,male,50,Rural,Yes,34756,Single,Yes,Level3,1,3,No,
+721,Mr.,Lennon,R,Findlay,Visa,Information security specialist,male,18,Rural,Yes,4986,Single,Yes,Level2,0,0,Yes,Backpacker
+734,Mrs.,Eryn,C,Millar,,,female,46,Urban,Yes,35955,Single,Yes,Level1,0,2,No,
+737,Mr.,Isaac,G,King,Visa,Automotive service technician,male,52,Urban,Yes,13093,Single,Yes,Level2,2,2,No,
+738,Ms.,Tamzin,L,Forbes,AMEX,Conference planner,female,18,Urban,No,,,No,,,,Yes,Premium
+739,Ms.,Lauren,S,Ball,AMEX,Machinery maintenance mechanic,female,68,Rural,Yes,23580,Bundle,Yes,Level2,1,0,Yes,Senior
+740,Ms.,Olivia,C,Stevenson,,Groundskeeper,female,22,Urban,Yes,28256,Bundle,No,,,,Yes,Business
+744,Mrs.,Ella,L,Foster,Visa,,female,51,Rural,Yes,14733,Single,No,,,,No,
+751,Mr.,Brandon,S,Campbell,Visa,,male,51,Rural,Yes,34607,Single,Yes,Level1,1,2,No,
+752,Mr.,Louis,A,Crawford,Visa,Soil conservationist,male,21,Urban,Yes,28341,Bundle,No,,,,Yes,Business
+758,Mr.,Marcel,T,Jamieson,AMEX,,male,50,Urban,No,,,Yes,Level2,1,3,No,
+759,Ms.,Jemma,I,Johnston,Visa,Historian,female,20,Rural,Yes,25741,Bundle,Yes,Level2,2,0,Yes,Business
+764,Mr.,Samuel,S,Dawson,Visa,Office administrative assistant,male,22,Urban,Yes,21876,Bundle,No,,,,Yes,Business
+765,Mr.,Leo,O,Coates,Visa,Vending machine servicer,male,45,Urban,Yes,19852,Bundle,No,,,,Yes,Standard
+774,Ms.,Sofia,A,Gibson,AMEX,Pile driver operator,female,45,Rural,No,,,Yes,Level2,2,2,No,
+776,Mr.,Codey,I,Russell,,Chairperson of the board,male,49,Rural,Yes,16535,Single,Yes,Level2,1,1,No,
+782,Mr.,Christian,M,Wilson,,Hand packer,male,20,Urban,No,,,No,,,,No,
+783,Mrs.,Alexandra,L,Sullivan,Visa,Video camera operator,female,50,Rural,Yes,13951,Single,Yes,Level2,1,3,No,
+785,Mr.,Caelan,C,McMillan,Visa,,male,53,Urban,Yes,38676,Single,Yes,Level3,1,2,Yes,Standard
+786,Ms.,Elise,J,Chambers,Visa,Custodial worker,female,46,Urban,Yes,37077,Single,Yes,Level2,0,2,Yes,Premium
+792,Mr.,Harry,C,Fisher,AMEX,,male,22,Urban,No,,,No,,,,No,
+800,Mr.,William,L,Thorpe,AMEX,Typist,male,43,Urban,Yes,39333,Single,Yes,Level2,0,2,Yes,Business
+801,Mrs.,Georgia,M,Munro,,,female,23,Urban,No,,,No,,,,Yes,Premium
+804,Ms.,Alice,E,Fry,,,female,66,Rural,Yes,30537,Single,Yes,Level2,1,0,Yes,Business
+805,Mr.,Adrian,L,Hill,AMEX,,male,52,Rural,Yes,20408,Single,Yes,Level2,1,2,Yes,Business
+806,Mr.,Donald,S,Kennedy,AMEX,Aircraft surfaces assembler,male,50,Rural,Yes,17779,Single,No,,,,No,
+814,Mr.,Mason,A,Wallis,AMEX,,male,54,Rural,Yes,16290,Single,No,,,,No,
+818,Ms.,Molly,M,Kirk,Visa,Pedicurist,female,65,Rural,Yes,28232,Single,No,,,,Yes,Standard
+821,Mrs.,Nicole,M,Rees,Visa,Camp director,female,53,Rural,Yes,12785,Single,Yes,Level2,1,1,No,
+828,Mr.,Alexander,K,Henderson,Visa,Land surveyor,male,49,Urban,No,,,Yes,Level2,1,2,No,
+839,Ms.,Jodie,M,Marshall,,,female,47,Urban,Yes,38195,Single,No,,,,Yes,Business
+845,Mr.,Bradley,R,Thomas,Visa,Private household cook,male,55,Urban,Yes,33553,Single,No,,,,No,
+847,Mr.,Philip,A,Gibson,Visa,Ironworker,male,51,Rural,Yes,17664,Single,Yes,Level2,1,3,Yes,Standard
+857,Mr.,Layton,G,Hunter,Visa,General manager,male,23,Rural,No,,,No,,,,Yes,Premium
+874,Mr.,Morgan,R,Carr,Visa,Education administrator,male,45,Urban,Yes,33151,Single,Yes,Level2,0,2,Yes,Business
+878,Mr.,Jay,C,Haynes,AMEX,Structural engineer,male,21,Urban,Yes,21864,Bundle,No,,,,Yes,Business
+883,Mr.,Reece,L,Vincent,Visa,,male,18,Urban,Yes,4866,Bundle,Yes,Level1,0,0,Yes,Standard
+891,Mr.,Darryl,A,Simpson,Visa,EEO officer,male,49,Rural,No,,,Yes,Level2,1,3,No,
+895,Mrs.,Jessica,K,Cox,Visa,,female,51,Rural,Yes,29300,Single,Yes,Level1,2,2,No,
+896,Mr.,Sandy,A,Simpson,Visa,Ski patrol,male,57,Rural,No,,,No,,,,No,
+900,Ms.,Georgia,C,James,AMEX,,female,49,Rural,Yes,14601,Single,No,,,,No,
+911,Mr.,Kalvin,V,Craig,Visa,Health care interpreter,male,22,Urban,Yes,4975,Bundle,No,,,,Yes,Backpacker
+914,Ms.,Summer,H,Green,Visa,Livestock farmer,female,53,Urban,Yes,13273,Single,Yes,Level3,1,3,No,
+918,Ms.,Olivia,A,Gibson,Visa,Personnel consultant,female,19,Urban,Yes,21688,Bundle,Yes,Level1,0,0,Yes,Premium
+920,Mr.,Jake,E,Boyle,Visa,Job service specialist,male,61,Urban,Yes,28655,Single,No,,,,Yes,Premium
+925,Mrs.,Ellie,E,Parker,AMEX,,female,46,Urban,No,,,Yes,Level2,1,2,No,
+949,Mr.,Luke,T,Randall,,Technical education teacher,male,58,Urban,Yes,21132,Single,Yes,Level2,0,0,Yes,Business
+975,Mrs.,Rose,F,Kerr,AMEX,,female,21,Rural,Yes,22644,Bundle,No,,,,Yes,Premium
+978,Ms.,Megan,M,Reid,,Clinical chemistry technologist,female,45,Urban,Yes,35423,Single,Yes,Level3,1,2,Yes,Premium
+981,Mrs.,Ellis,N,Jones,Visa,Data processing equipment repairer,female,64,Rural,No,,,Yes,Level2,1,0,Yes,Senior
+988,Ms.,Grace,S,Goodwin,AMEX,Scraper operator,female,46,Urban,No,,,Yes,Level3,1,2,Yes,Standard
+989,Ms.,Francesca,B,McMillan,AMEX,Cooling and freezing equipment operator,female,69,Urban,Yes,23025,Single,Yes,Level3,0,0,Yes,Senior
+992,Mr.,Drew,C,Docherty,Visa,Lead abatement worker,male,19,Urban,No,,,No,,,,No,
+993,Mrs.,Freya,Z,Dale,Visa,Executive administrative assistant,female,22,Rural,Yes,14920,Bundle,Yes,Level1,0,0,No,
+1003,Mrs.,Kiera,L,Read,AMEX,Grinding and polishing worker,female,20,Rural,Yes,28514,Single,No,,,,Yes,Backpacker
+1019,Mr.,Jamie,H,Wallace,Visa,Systems architect,male,52,Urban,Yes,37169,Single,No,,,,No,
+1028,Mr.,Codey,T,Simpson,Visa,Credit manager,male,50,Rural,Yes,19627,Single,Yes,Level2,2,3,No,
+1034,Ms.,Chanelle,V,Burns,Visa,Heating air-conditioning and refrigeration engineer,female,71,Rural,Yes,21554,Bundle,Yes,Level2,1,0,No,
+1037,Mrs.,Kiera,S,O'Sullivan,AMEX,,female,20,Urban,No,,,No,,,,Yes,Backpacker
+1042,Ms.,Paige,R,Cox,Visa,Marking and identification printing machine operator,female,45,Rural,Yes,11591,Single,Yes,Level3,1,3,No,
+1046,Ms.,Sienna,Z,Dean,Visa,Publicity writer,female,52,Urban,Yes,18380,Single,No,,,,No,
+1070,Mr.,Aryan,F,Hunter,,Extruding and forming machine operator,male,49,Rural,Yes,10075,Single,Yes,Level1,0,3,No,
+1079,Mr.,Ronan,C,Reilly,Visa,,male,72,Rural,Yes,28346,Single,Yes,Level2,0,0,Yes,Senior
+1082,Mr.,Kobe,L,Thompson,,Front-end mechanic,male,20,Urban,Yes,30357,Bundle,No,,,,Yes,Standard
+1084,Mr.,Luke,L,Spencer,Visa,Tester,male,47,Urban,Yes,15005,Single,Yes,Level2,1,3,No,
+1101,Mr.,Harley,A,Kaur,Visa,Merchant marine officer,male,47,Rural,Yes,10847,Single,Yes,Level2,0,3,No,
+1106,Mrs.,Brogan,A,Aitken,AMEX,Professional athlete,female,48,Rural,Yes,18233,Single,Yes,Level1,1,2,No,
+1107,Mr.,Mohammed,D,Coates,AMEX,,male,19,Rural,Yes,15505,Bundle,Yes,Level1,1,0,Yes,Standard
+1113,Mr.,Ajay,G,McKay,,,male,18,Urban,No,,,No,,,,Yes,Backpacker
+1120,Mr.,Liam,C,Barnes,AMEX,Engineering geologist,male,18,Rural,Yes,21818,Bundle,Yes,Level1,2,0,Yes,Business
+1126,Ms.,Bailey,D,Gordon,AMEX,,female,18,Urban,Yes,5328,Bundle,No,,,,Yes,Backpacker
+1131,Mrs.,Karis,L,Muir,AMEX,Camera operator,female,49,Rural,Yes,18790,Single,Yes,Level2,1,3,No,
+1134,Mr.,Millar,J,Young,Visa,,male,45,Rural,No,,,Yes,Level2,2,2,No,
+1135,Mr.,Dawid,N,Young,AMEX,Shipping clerk,male,48,Urban,Yes,30025,Bundle,Yes,Level2,0,2,No,
+1139,Mr.,Ryan,M,Sharpe,,Beauty care specialist,male,47,Rural,Yes,18455,Single,No,,,,Yes,Standard
+1142,Mrs.,Emily,S,Grant,AMEX,Quality assurance inspector,female,41,Urban,Yes,41885,Single,No,,,,Yes,Business
+1147,Ms.,Rebecca,J,Sanderson,,Press secretary,female,65,Rural,Yes,25673,Single,Yes,Level1,1,0,No,
+1158,Mrs.,Felicity,E,Martin,AMEX,Motor coach driver,f,53,Urban,No,,,Yes,Level2,0,2,No,
+1166,Ms.,Georgina,A,Ball,AMEX,Sales worker,female,46,Urban,No,,,Yes,Level2,0,2,No,
+1169,Ms.,Natasha,K,Lee,AMEX,Ambulatory care nurse,female,61,Urban,Yes,27725,Single,Yes,Level3,1,0,Yes,Senior
+1170,Mr.,Ewan,M,Bond,AMEX,Apartment house manager,male,52,Urban,No,,,No,,,,No,
+1172,Mrs.,Freya,A,Kelly,Visa,,female,18,Urban,No,,,No,,,,No,
+1189,Mr.,Ramsay,M,Aitken,AMEX,,male,44,Urban,Yes,28934,Single,Yes,Level2,1,3,No,
+1203,Mr.,Cian,L,Miller,AMEX,Microbiologist,male,45,Rural,Yes,32975,Single,Yes,Level2,1,2,Yes,Business
+1207,Mr.,Luka,M,McGregor,AMEX,Tower controller,male,22,Urban,Yes,24658,Bundle,Yes,Level1,0,0,No,
+1209,Ms.,Zofia,D,Gibson,Visa,Locker room attendant,female,45,Rural,Yes,11580,Bundle,Yes,Level2,2,2,No,
+1214,Mr.,Callum,S,Kirby,,,male,53,Rural,Yes,19569,Single,Yes,Level2,1,2,No,
+1217,Mr.,Charlie,D,Hartley,Visa,,male,52,Urban,Yes,33304,Single,No,,,,Yes,Standard
+1225,Ms.,Niamh,J,Bentley,Visa,Building superintendent,female,20,Urban,Yes,21541,Bundle,No,,,,No,
+1228,Ms.,Sophia,J,Ward,Visa,Account collector,female,19,Urban,Yes,4606,Bundle,No,,,,Yes,Backpacker
+1237,Mr.,Owen,M,Simpson,AMEX,Asbestos abatement worker,male,44,Rural,Yes,12583,Single,Yes,Level3,2,2,No,
+1238,Ms.,Sophie,N,Taylor,AMEX,Osteopathic doctor,female,72,Rural,Yes,21624,Bundle,Yes,Level3,0,0,No,
+1242,Mr.,Julian,K,McIntyre,Visa,Platemaker,male,45,Urban,Yes,38628,Single,Yes,Level2,1,3,Yes,Standard
+1243,Ms.,Sylvie,D,Maclean,Visa,Addictions nurse,female,18,Urban,Yes,28121,Single,Yes,Level1,1,0,Yes,Backpacker
+1244,Ms.,Eloise,H,Chandler,,Manufacturing optician,female,56,Urban,Yes,33142,Single,Yes,Level3,0,2,No,
+1247,Mrs.,Esther,L,Aitken,AMEX,Multiple machine tool tender,female,19,Urban,No,,,Yes,Level1,0,0,No,
+1253,Mrs.,Willow,V,Forbes,,Electronic home entertainment equipment installer,female,50,Rural,Yes,11874,Single,Yes,Level2,2,2,Yes,Business
+1259,Ms.,Tilly,E,Hardy,,,female,22,Urban,Yes,4789,Bundle,No,,,,No,
+1265,Mrs.,Emma,E,Bailey,AMEX,,female,50,Rural,No,,,No,,,,No,
+1274,Ms.,Tia,K,McKay,AMEX,Museum technician,female,22,Urban,Yes,5059,Bundle,No,,,,Yes,Premium
+1291,Ms.,Lauren,D,Muir,Visa,,female,21,Urban,Yes,5063,Bundle,No,,,,Yes,Backpacker
+1302,Mr.,Bailey,O,McMillan,Visa,Teller supervisor,male,20,Urban,Yes,22931,Bundle,No,,,,Yes,Business
+1304,Mrs.,Maisie,C,Begum,Visa,Physician assistant,female,24,Urban,Yes,22676,Bundle,No,,,,Yes,Business
+1305,Ms.,Eve,S,McLean,AMEX,,female,70,Rural,Yes,17142,Single,Yes,Level2,1,0,Yes,Senior
+1309,Mr.,Ramsay,C,White,AMEX,Bill and account collector,male,67,Rural,No,,,Yes,Level2,1,0,Yes,Senior
+1313,Mrs.,Katherine,E,Heath,Visa,,female,66,Urban,Yes,25649,Single,Yes,Level1,1,0,Yes,Business
+1315,Mr.,Darren,M,White,,Immunology technologist,male,50,Rural,Yes,22913,Single,Yes,Level2,1,2,No,
+1317,Mrs.,Ella,Z,Cameron,AMEX,,female,65,Rural,Yes,27562,Bundle,No,,,,Yes,Standard
+1319,Mr.,Luca,K,Carter,,,male,48,Urban,Yes,31902,Single,Yes,Level2,1,3,No,
+1321,Dr.,Mirrin,A,Mackay,Visa,,female,47,Urban,Yes,33269,Single,Yes,Level2,1,2,Yes,Standard
+1322,Ms.,Amelia,R,Willis,AMEX,,female,23,Rural,Yes,25607,Bundle,Yes,Level1,1,0,Yes,Premium
+1323,Mrs.,Kayley,G,Simpson,Visa,,female,45,Rural,Yes,30636,Single,Yes,Level3,0,2,Yes,Standard
+1324,Mr.,Benjamin,C,McIntosh,Visa,,male,49,Urban,No,,,Yes,Level1,2,3,No,
+1325,Ms.,Kiera,T,Henry,,Public relations representative,female,46,Rural,No,,,Yes,Level3,1,2,No,
+1331,Mr.,Samuel,M,Briggs,,Sculptor,male,49,Rural,Yes,17580,Single,No,,,,No,
+1332,Mrs.,Sky,H,Thompson,AMEX,Airline steward,female,51,Rural,No,,,Yes,Level2,1,2,No,
+1342,Mr.,Raymond,C,Murray,Visa,,male,47,Urban,Yes,15831,Single,No,,,,No,
+1343,Mr.,Keiren,H,Mackenzie,AMEX,Local truck driver,male,47,Urban,Yes,35215,Single,No,,,,No,
+1345,Mr.,Zachary,N,Macdonald,AMEX,,male,49,Urban,Yes,32237,Single,Yes,Level3,1,3,Yes,Standard
+1352,Mr.,Farhan,N,Martin,Visa,Condominium association manager,male,42,Urban,Yes,38704,Single,Yes,Level2,1,2,Yes,Premium
+1360,Mrs.,Leigha,K,Macleod,AMEX,,female,49,Rural,Yes,12926,Single,Yes,Level2,1,3,No,
+1361,Ms.,Sofia,C,Houghton,AMEX,Surgical technician,female,20,Rural,Yes,5063,Single,Yes,Level1,0,0,Yes,Premium
+1366,Mr.,Spencer,E,Pollard,Visa,Encoder,male,20,Urban,No,,,No,,,,No,
+1369,Mr.,Riley,C,Gibbs,AMEX,PBX repairer,male,50,Urban,Yes,13615,Single,Yes,Level2,1,2,No,
+1376,Mrs.,Abby,C,Wood,,Biomedical engineer,female,51,Rural,No,,,Yes,Level1,2,2,No,
+1383,Ms.,Ava,T,Savage,,Camp counselor,female,49,Urban,Yes,42767,Bundle,Yes,Level2,0,2,Yes,Business
+1387,Ms.,Ava,L,Coles,,Control technician,female,44,Urban,Yes,39767,Bundle,Yes,Level1,1,2,Yes,Business
+1396,Mr.,Louie,E,Hunt,Visa,Development specialist,male,51,Rural,Yes,17422,Single,Yes,Level1,1,3,No,
+1398,Ms.,Hayden,J,MacDonald,Visa,,female,48,Rural,Yes,11498,Single,Yes,Level2,0,2,No,
+1400,Mr.,Cameron,C,Pratt,AMEX,Bricklayer,male,46,Urban,Yes,30826,Bundle,No,,,,Yes,Business
+1407,Mrs.,Farrah,R,McGregor,Visa,Appraiser,female,47,Urban,Yes,37294,Bundle,Yes,Level2,1,2,Yes,Business
+1426,Ms.,Murron,N,Dickson,AMEX,,female,46,Urban,No,,,Yes,Level3,2,3,Yes,Business
+1429,Ms.,Tia,C,Johnston,,,female,21,Urban,Yes,5166,Bundle,No,,,,Yes,Premium
+1430,Mr.,Lucas,E,White,Visa,Dietetic technician,male,49,Urban,Yes,37216,Single,Yes,Level2,1,3,Yes,Business
+1439,Mr.,Scott,H,Hamilton,Visa,Mobile heavy equipment mechanic,male,24,Urban,Yes,26471,Bundle,No,,,,Yes,Backpacker
+1440,Ms.,Eloise,S,Armstrong,AMEX,,female,49,Rural,Yes,16633,Single,Yes,Level2,2,2,No,
+1441,Mr.,Drew,F,Grant,AMEX,,male,22,Urban,No,,,No,,,,No,
+1449,Mr.,Ali,M,Docherty,,Information architect librarian,male,42,Urban,Yes,40644,Single,Yes,Level2,1,2,Yes,Business
+1450,Mr.,Declan,L,Quinn,Visa,,male,51,Rural,Yes,20364,Single,No,,,,Yes,Standard
+1453,Ms.,Sienna,M,Cooke,Visa,Locomotive engineer,female,47,Urban,Yes,32005,Single,Yes,Level2,1,3,Yes,Business
+1462,Mr.,Grant,A,McMillan,Visa,Operations research analyst,male,46,Urban,Yes,32133,Single,Yes,Level1,2,3,Yes,Premium
+1464,Mrs.,Carrie,R,White,AMEX,Bodyguard,f,18,Urban,Yes,24564,Bundle,Yes,Level1,1,0,Yes,Business
+1465,Ms.,Juliette,R,Sinclair,AMEX,Technical sales manager,female,52,Urban,Yes,31301,Single,Yes,Level2,0,2,Yes,Standard
+1469,Mr.,Billy,I,Clark,AMEX,,male,19,Urban,Yes,5004,Bundle,No,,,,Yes,Backpacker
+1471,Mr.,Scott,O,Haynes,Visa,Weather forecaster,male,18,Urban,Yes,320280,Bundle,No,,,,Yes,Backpacker
+1474,Mr.,Ben,M,Tomlinson,Visa,Marine oiler,male,49,Urban,No,,,Yes,Level3,1,3,Yes,Business
+1476,Mrs.,Alisha,N,Ashton,Visa,,female,45,Urban,No,,,Yes,Level2,1,2,No,
+1479,Mr.,Finlay,T,Baker,Visa,,male,46,Urban,Yes,34871,Single,Yes,Level2,0,3,Yes,Premium
+1480,Ms.,Ellie,I,Carr,Visa,,female,66,Rural,Yes,22815,Bundle,Yes,Level2,2,0,No,
+1490,Mr.,Austin,C,Anderson,,Home care aide,male,48,Rural,Yes,35930,Bundle,Yes,Level1,0,3,Yes,Standard
+1492,Ms.,Kelsey,E,McLean,AMEX,,female,49,Urban,Yes,36301,Single,Yes,Level2,2,2,Yes,Business
+1495,Mr.,William,A,Smith,Visa,Physicist,male,18,Rural,Yes,25095,Bundle,No,,,,Yes,Backpacker
+1497,Mr.,Boyd,A,Young,Visa,Literary interpreter,male,51,Rural,Yes,36953,Single,No,,,,Yes,Standard
+1506,Ms.,Samantha,M,Osborne,AMEX,,female,21,Rural,Yes,22169,Bundle,No,,,,Yes,Business
+1517,Ms.,Brooke,J,Brown,AMEX,Food technologist,female,41,Urban,No,,,Yes,Level3,1,2,No,
+1518,Mrs.,Isobel,A,Bell,,U.S. deputy marshal,female,53,Rural,Yes,17176,Single,Yes,Level3,1,3,No,
+1520,Mrs.,Courtney,A,Woodward,Visa,Personnel officer,female,20,Urban,Yes,26268,Bundle,Yes,Level1,0,0,Yes,Business
+1523,Ms.,Jodie,R,Stanley,Visa,Member services counselor,female,48,Rural,No,,,Yes,Level2,1,2,No,
+1524,Mr.,Toby,K,Bryan,Visa,Manifold binding worker,male,49,Urban,Yes,25412,Single,Yes,Level2,1,2,No,
+1528,Mrs.,Gabriela,D,Hill,,Health services manager,female,47,Urban,Yes,34871,Single,No,,,,No,
+1537,Mrs.,Elise,B,Hope,Visa,,female,20,Rural,Yes,19622,Bundle,Yes,Level1,1,0,No,
+1539,Mr.,Matthew,E,Archer,Visa,Water transportation master,male,45,Urban,Yes,32717,Single,No,,,,Yes,Standard
+1541,Mrs.,Beth,X,Watson,Visa,Sociocultural anthropologist,female,45,Urban,Yes,30492,Single,No,,,,No,
+1542,Mr.,Joseph,H,Taylor,AMEX,Store detective,male,71,Rural,No,,,Yes,Level3,0,0,Yes,Premium
+1543,Mrs.,Erin,K,Watson,AMEX,,female,49,Rural,Yes,10889,Single,Yes,Level2,0,2,No,
+1552,Ms.,Poppy,P,Higgins,Visa,X-ray technician,female,66,Urban,No,,,Yes,Level3,0,0,No,
+1554,Mr.,Elliott,N,Aitken,AMEX,,male,49,Urban,No,,,Yes,Level3,1,3,Yes,Business
+1557,Mrs.,Alexandra,J,Long,,,female,50,Rural,Yes,16009,Single,Yes,Level2,1,2,Yes,Standard
+1574,Ms.,Safa,M,Macleod,Visa,Custom inspector,female,23,Urban,No,,,No,,,,No,
+1575,Ms.,Eve,E,Griffin,Visa,,female,18,Urban,Yes,5302,Bundle,No,,,,Yes,Backpacker
+1582,Mr.,Noah,G,McCarthy,AMEX,,male,53,Urban,Yes,31734,Single,Yes,Level2,1,3,Yes,Standard
+1588,Dr.,Leon,K,Knight,,Occupational analyst,male,48,Urban,Yes,30341,Bundle,Yes,Level2,1,3,No,
+1590,Mr.,Miller,H,White,AMEX,Commercial and industrial designer,male,51,Rural,Yes,37654,Single,No,,,,Yes,Standard
+1594,Mr.,Rudi,A,Ritchie,AMEX,Photographic spotter,male,52,Rural,Yes,12828,Single,Yes,Level2,2,3,Yes,Backpacker
+1596,Mr.,Harrison,K,Marshall,AMEX,,male,51,Urban,Yes,32043,Single,Yes,Level2,0,3,No,
+1597,Mrs.,Amie,R,Gibson,Visa,Referee,female,19,Urban,Yes,28600,Bundle,No,,,,Yes,Premium
+1602,Mrs.,Katie,Z,Stokes,AMEX,Railroad engineer,female,43,Rural,No,,,Yes,Level3,0,3,Yes,Standard
+1607,Mrs.,Danielle,H,Frost,Visa,Financial consultant,female,50,Rural,Yes,18659,Single,Yes,Level2,0,2,No,
+1614,Mr.,Ruaraidh,E,Docherty,Visa,,male,56,Urban,Yes,14398,Single,No,,,,Yes,Premium
+1616,Ms.,Gabriela,G,McIntosh,AMEX,Hazardous materials removal worker,female,46,Rural,No,,,Yes,Level2,2,2,Yes,Business
+1618,Mrs.,Eve,R,Kerr,AMEX,Training coordinator,female,51,Rural,Yes,17594,Single,Yes,Level3,1,2,No,
+1624,Mr.,Billy,S,Kerr,AMEX,,male,18,Urban,No,,,Yes,Level1,2,0,Yes,Backpacker
+1628,Ms.,Cailin,D,Marshall,AMEX,,female,49,Rural,Yes,9880,Single,Yes,Level1,2,2,No,
+1629,Ms.,Summer,K,Williamson,Visa,,female,21,Urban,Yes,5144,Bundle,No,,,,No,
+1630,Mr.,Rhys,E,Jones,Visa,Employee development manager,male,44,Rural,No,,,Yes,Level2,1,2,Yes,Business
+1632,Mrs.,Paige,H,Austin,AMEX,Infusion nurse,female,48,Urban,Yes,27337,Single,Yes,Level3,0,2,Yes,Premium
+1637,Mrs.,Morgan,J,Holland,Visa,,female,44,Urban,Yes,28959,Single,No,,,,No,
+1638,Ms.,Sinead,P,Thomson,Visa,Textile machine operator,female,40,Urban,Yes,31110,Single,Yes,Level2,1,2,No,
+1641,Mr.,Bradley,S,Edwards,,,male,54,Rural,Yes,16057,Single,Yes,Level2,0,2,No,
+1644,Mrs.,Paige,A,Parsons,AMEX,,female,47,Urban,Yes,35646,Single,Yes,Level2,1,2,No,
+1645,Ms.,Maisy,K,Taylor,Visa,Coder,female,50,Urban,Yes,35207,Single,Yes,Level2,1,3,Yes,Business
+1650,Mr.,Spencer,S,Chamberlain,AMEX,,male,47,Urban,Yes,33351,Single,Yes,Level2,1,3,Yes,Business
+1653,Mr.,Ronnie,A,Cameron,Visa,,male,68,Rural,Yes,26851,Bundle,Yes,Level3,1,0,Yes,Standard
+1654,Mr.,Mateusz,G,Sutherland,AMEX,,male,19,Rural,No,,,No,,,,Yes,Backpacker
+1668,Mrs.,Zainab,K,Miller,Visa,,female,49,Urban,Yes,46999,Single,Yes,Level1,1,2,Yes,Standard
+1682,Mrs.,Alice,E,Howe,AMEX,,female,43,Urban,Yes,31689,Single,Yes,Level2,2,2,Yes,Standard
+1685,Mr.,Hamish,C,Kennedy,Visa,Respiratory care practitioner,male,50,Rural,Yes,17295,Single,Yes,Level3,1,3,No,
+1686,Ms.,Kiera,J,McKenzie,Visa,,female,20,Urban,Yes,5220,Bundle,No,,,,No,
+1687,Mr.,Michael,J,Kaur,AMEX,,male,48,Urban,Yes,33746,Single,Yes,Level2,0,2,Yes,Standard
+1695,Ms.,Sophia,J,Page,Visa,Human resources supervisor,female,20,Urban,No,,,No,,,,Yes,Standard
+1698,Mrs.,Kate,J,Lewis,Visa,Purchasing clerk,female,72,Rural,Yes,25113,Single,Yes,Level3,1,0,Yes,Senior
+1699,Ms.,Kiera,A,Duncan,,,female,54,Rural,Yes,13229,Bundle,Yes,Level2,2,3,No,
+1701,Mr.,Kayden,L,Paterson,AMEX,Merchandise manager,male,51,Rural,Yes,34282,Single,No,,,,Yes,Business
+1703,Mrs.,Scarlett,L,Ferguson,AMEX,,female,47,Rural,Yes,13393,Single,Yes,Level2,2,3,No,
+1713,Mr.,Zander,L,Fraser,,Staff manager,male,76,Urban,No,,,Yes,Level3,2,0,Yes,Senior
+1719,Mr.,Harvey,L,Burrows,AMEX,,male,52,Rural,Yes,15858,Single,Yes,Level2,0,2,Yes,Standard
+1728,Mr.,Jacob,T,Kent,Visa,Public relations representative,male,22,Rural,Yes,5180,Bundle,No,,,,Yes,Backpacker
+1730,Mrs.,Rachael,T,Watt,AMEX,,female,44,Rural,Yes,30058,Single,Yes,Level2,1,3,Yes,Standard
+1734,Ms.,Amelia,J,Lawson,AMEX,,female,20,Urban,Yes,28448,Bundle,Yes,Level3,0,0,Yes,Premium
+1736,Ms.,Milly,T,Black,,,female,19,Urban,Yes,23517,Bundle,No,,,,Yes,Backpacker
+1745,Mrs.,Eva,R,Bradley,AMEX,,female,19,Urban,Yes,4899,Bundle,No,,,,Yes,Backpacker
+1746,Mrs.,Erin,J,Morris,Visa,,female,19,Rural,Yes,24722,Bundle,Yes,Level1,1,0,Yes,Premium
+1747,Mr.,Conall,M,Graham,AMEX,Research dietitian,male,48,Urban,Yes,30486,Single,Yes,Level3,1,2,Yes,Business
+1748,Mrs.,Naomi,B,Forster,,,female,43,Urban,Yes,8924,Single,No,,,,No,
+1759,Mr.,Kieran,M,Preston,AMEX,,male,42,Urban,Yes,33100,Single,Yes,Level3,1,2,No,
+1762,Ms.,Stephanie,E,Jamieson,Visa,Livestock farmer,female,54,Rural,Yes,30870,Single,Yes,Level2,1,2,Yes,Backpacker
+1766,Mr.,Riley,L,Bishop,AMEX,Fish cleaner,male,70,Urban,Yes,30297,Single,No,,,,Yes,Senior
+1768,Mr.,Leon,Z,Evans,Visa,,male,19,Urban,Yes,4827,Bundle,Yes,Level1,0,0,Yes,Backpacker
+1770,Mr.,Charlie,T,Hill,,Cost/investment recovery technician,male,50,Rural,Yes,15668,Single,Yes,Level1,1,2,No,
+1787,Mr.,Luke,M,Walton,AMEX,General and operations manager,male,44,Rural,Yes,13109,Single,Yes,Level2,0,2,No,
+1793,Mr.,Spencer,P,Rahman,Visa,,male,49,Rural,Yes,11721,Single,Yes,Level1,2,3,No,
+1796,Mr.,Aidan,L,Law,AMEX,,male,66,Urban,Yes,26423,Single,Yes,Level3,0,0,Yes,Senior
+1801,Mr.,Aidan,K,Graham,Visa,Scientific photographer,male,50,Rural,No,,,Yes,Level2,0,2,No,
+1805,Mrs.,Francesca,B,Pope,Visa,,female,55,Urban,Yes,38363,Single,Yes,Level2,1,2,Yes,Standard
+1810,Ms.,Jade,I,Jones,AMEX,Elevator repairer,female,77,Urban,No,,,Yes,Level1,1,0,Yes,Senior
+1812,Mr.,Zach,M,Sinclair,Visa,Mineralogist,male,47,Urban,Yes,36384,Bundle,No,,,,Yes,Premium
+1814,Mr.,Luka,A,Ritchie,AMEX,Intructional coordinator,male,23,Urban,Yes,25374,Bundle,No,,,,Yes,Business
+1818,Ms.,Ruth,J,Johnstone,AMEX,Midwife,female,43,Rural,Yes,41803,Single,No,,,,No,
+1828,Ms.,Elizabeth,H,Owens,AMEX,,female,52,Urban,Yes,34455,Single,Yes,Level1,0,2,Yes,Business
+1844,Dr.,Ellis,A,Moore,Visa,,male,18,Urban,Yes,27327,Bundle,No,,,,Yes,Business
+1855,Mr.,Bryan,M,Moore,AMEX,Podiatric doctor,male,64,Urban,Yes,28278,Single,Yes,Level3,1,0,No,
+1856,Mr.,Reece,C,Barrett,AMEX,Recruiting manager,male,47,Rural,Yes,17032,Single,Yes,Level1,2,2,No,
+1862,Mrs.,Tia,E,Peters,AMEX,Histology technician,female,49,Rural,Yes,10064,Single,Yes,Level2,1,2,No,
+1864,Mr.,Neil,F,Shaw,,Barber,male,50,Urban,Yes,14719,Single,No,,,,No,
+1866,Mrs.,Freya,L,Sanders,AMEX,Macromolecular chemist,female,52,Rural,Yes,18018,Single,No,,,,No,
+1884,Mrs.,Maisy,T,Dickson,,Highway patrol officer,female,50,Rural,No,,,Yes,Level1,1,2,Yes,Business
+1888,Mr.,Spencer,C,Spencer,,Museum director,male,47,Urban,Yes,32508,Single,Yes,Level2,1,2,Yes,Premium
+1895,Mr.,Cailean,J,Alexander,Visa,Internet developer,male,20,Urban,Yes,20176,Bundle,Yes,Level1,0,0,Yes,Premium
+1897,Mrs.,Ellie,K,Graham,Visa,Biochemist,female,49,Urban,No,,,No,,,,Yes,Premium
+1898,Ms.,Casey,R,Cunningham,Visa,Data entry worker,female,46,Urban,Yes,30931,Single,Yes,Level3,1,3,Yes,Business
+1902,Mrs.,Demi,O,Millar,,,female,50,Urban,Yes,30327,Single,Yes,Level2,0,2,Yes,Business
+1905,Mr.,Tom,I,Perkins,Visa,Water resources engineer,male,46,Urban,No,,,No,,,,Yes,Premium
+1906,Mr.,Elijah,L,Ferguson,,,male,46,Rural,No,,,Yes,Level3,2,2,Yes,Senior
+1919,Mr.,Wiktor,L,Gray,AMEX,,male,47,Urban,Yes,38510,Single,Yes,Level1,1,2,No,
+1925,Ms.,Lara,P,Morgan,Visa,,female,46,Urban,Yes,27569,Bundle,Yes,Level2,1,3,Yes,Premium
+1927,Ms.,Sky,J,Crawford,AMEX,,female,46,Rural,Yes,14405,Single,Yes,Level1,2,3,No,
+1930,Ms.,Bailey,M,Cunningham,AMEX,Homemaker,female,47,Urban,Yes,38518,Single,No,,,,Yes,Backpacker
+1931,Mrs.,Maisie,H,Murphy,,,female,47,Urban,Yes,34634,Single,Yes,Level1,2,2,No,
+1932,Mr.,Murdo,H,Wright,AMEX,,male,66,Urban,Yes,27764,Bundle,Yes,Level1,1,0,No,
+1940,Mr.,Casey,K,Reilly,Visa,Furnace kiln oven drier and kettle operator,male,50,Rural,Yes,10277,Single,No,,,,No,
+1949,Mrs.,Maya,N,Lee,Visa,,female,23,Urban,Yes,5183,Bundle,No,,,,Yes,Backpacker
+1950,Mr.,Kody,M,Mackenzie,AMEX,Surgical technologist,male,46,Rural,Yes,13821,Single,No,,,,No,
+1964,Mr.,Louis,A,Wilkinson,Visa,Payroll clerk,male,54,Urban,Yes,33932,Single,Yes,Level1,0,2,Yes,Premium
+1966,Mrs.,Abby,R,Heath,Visa,Refractory mason,female,51,Urban,No,,,No,,,,Yes,Backpacker
+1969,Mr.,Bradley,A,Carroll,Visa,,male,44,Urban,Yes,37346,Single,Yes,Level1,1,2,No,
+1975,Mr.,Declan,C,Leonard,AMEX,System operator,male,18,Urban,Yes,5023,Bundle,No,,,,No,
+1985,Mr.,Oscar,A,Hanson,Visa,Administrative worker supervisor,male,48,Urban,Yes,37440,Single,No,,,,Yes,Business
+1990,Ms.,Leena,R,Johnstone,,Cargo and freight agent,female,18,Rural,No,,,Yes,Level1,0,0,Yes,Backpacker
+1991,Mrs.,Amber,J,Wood,AMEX,Public health dietitian,female,22,Urban,Yes,27084,Bundle,No,,,,Yes,Premium
+1993,Mrs.,Catherine,H,Ross,AMEX,Public adjuster,female,47,Rural,Yes,28640,Single,Yes,Level2,1,2,No,
+1996,Mr.,Rhys,H,Leonard,AMEX,,male,69,Rural,Yes,33066,Single,No,,,,Yes,Premium
+1998,Mr.,Marley,A,McKenzie,Visa,Convention planner,male,19,Urban,Yes,25330,Single,No,,,,Yes,Business
+2002,Mr.,Aidan,E,Hunt,AMEX,,male,44,Rural,Yes,31078,Single,No,,,,Yes,Standard
+2003,Mr.,Joel,L,Webb,,Electronic technician,male,52,Rural,Yes,15409,Bundle,No,,,,No,
+2016,Mr.,Lucas,N,Kerr,,,male,65,Urban,No,,,Yes,Level3,1,0,No,
+2019,Mr.,Ronnie,K,Hunter,AMEX,Help-desk technician,male,49,Urban,Yes,14725,Single,No,,,,No,
+2025,Ms.,Holly,A,Tyler,Visa,Sales clerk,female,50,Rural,Yes,17153,Single,No,,,,Yes,Business
+2026,Mr.,Alexander,H,Howe,Visa,Family therapist,male,24,Urban,Yes,5252,Bundle,No,,,,Yes,Premium
+2028,Ms.,Charli,F,King,AMEX,Molder,female,47,Rural,Yes,11815,Single,No,,,,Yes,Premium
+2029,Mr.,Antony,R,Christie,AMEX,Local controller,male,76,Rural,No,,,Yes,Level2,1,0,No,
+2031,Mrs.,Sophie,M,Hudson,AMEX,Chief operating officer,female,48,Urban,Yes,30958,Single,Yes,Level2,1,2,Yes,Premium
+2034,Mr.,Lachlan,L,Shaw,AMEX,,male,46,Urban,Yes,32044,Single,No,,,,Yes,Premium
+2037,Ms.,Erin,J,Holden,AMEX,Accounting clerk,female,46,Urban,Yes,32733,Single,Yes,Level3,1,2,No,
+2055,Mr.,Bruno,K,Fraser,Visa,Life skill counselor,male,44,Urban,Yes,32687,Single,Yes,Level3,0,2,No,
+2058,Mrs.,Tilly,D,Lees,AMEX,,female,64,Rural,Yes,31428,Single,Yes,Level3,1,0,Yes,Senior
+2059,Mrs.,Miriam,E,McIntyre,,,female,48,Rural,Yes,32389,Bundle,Yes,Level2,1,2,Yes,Business
+2065,Ms.,Eloise,S,Naylor,Visa,,female,49,Urban,Yes,12435,Single,Yes,Level1,1,3,Yes,Business
+2070,Ms.,Maya,G,Baldwin,Visa,Amusement machine repairer,female,18,Urban,No,,,No,,,,Yes,Premium
+2071,Mrs.,Anna,K,Craig,AMEX,Choke setter,female,18,Urban,Yes,5130,Bundle,No,,,,No,
+2073,Dr.,Leon,I,Douglas,AMEX,,male,60,Urban,No,,,Yes,Level3,1,0,No,
+2079,Mr.,Muhammad,C,Berry,Visa,,male,49,Rural,Yes,15945,Single,Yes,Level2,1,2,Yes,Standard
+2090,Mr.,Kai,I,Cartwright,Visa,Slaughterer,male,61,Rural,Yes,20814,Single,Yes,Level2,1,0,Yes,Senior
+2094,Mrs.,Chelsea,T,Akhtar,Visa,,female,53,Urban,Yes,15716,Single,No,,,,No,
+2106,Mrs.,Kerris,H,Grant,AMEX,,female,45,Urban,Yes,28405,Single,Yes,Level1,1,2,Yes,Business
+2115,Mr.,Craig,R,Murray,Visa,Internet developer,male,47,Urban,No,,,No,,,,No,
+2122,Mr.,Rohan,M,Crawford,,Information and record clerk,male,47,Urban,Yes,34502,Single,Yes,Level1,1,3,Yes,Business
+2146,Mr.,Kye,M,White,AMEX,Budget manager,male,46,Urban,Yes,30794,Single,Yes,Level3,1,2,Yes,Business
+2151,Mr.,Cyrus,A,Christie,Visa,Leasing consultant,male,50,Urban,Yes,34644,Single,Yes,Level2,1,3,Yes,Business
+2152,Mrs.,Lexie,H,Hamilton,AMEX,,female,21,Rural,No,,,No,,,,No,
+2153,Mr.,Ben,E,Bell,,Instructional designer,male,44,Urban,Yes,31446,Single,Yes,Level2,0,3,No,
+2157,Mr.,Ryan,M,Carey,Visa,,male,50,Urban,No,,,Yes,Level2,0,2,Yes,Standard
+2160,Mr.,Harry,S,Black,AMEX,Extractive metallurgical engineer,male,43,Urban,Yes,36924,Single,Yes,Level2,0,3,Yes,Senior
+2167,Ms.,Morgan,E,Wilson,Visa,,female,21,Urban,Yes,5090,Single,No,,,,No,
+2168,Ms.,Harriet,L,Hancock,,,female,52,Urban,Yes,32158,Single,Yes,Level2,2,2,Yes,Standard
+2198,Ms.,Patrycja,B,Alexander,AMEX,,female,46,Rural,Yes,17751,Single,Yes,Level3,1,2,No,
+2201,Ms.,Isabelle,B,Bray,,Personnel clerk,female,53,Rural,Yes,13042,Single,Yes,Level2,1,2,No,
+2205,Mr.,Glenn,A,Smith,,Land agent,male,44,Urban,Yes,36398,Single,No,,,,Yes,Business
+2215,Mrs.,Alisha,E,Cooper,,Team assembler,female,46,Rural,Yes,28062,Single,Yes,Level2,1,3,No,
+2218,Mrs.,Sarah,T,Thomas,Visa,Referee,female,45,Urban,Yes,34248,Single,Yes,Level1,1,2,No,
+2220,Mr.,Daniel,N,Miller,AMEX,Geriatric nurse,male,41,Urban,Yes,34048,Single,Yes,Level3,1,2,Yes,Premium
+2232,Mr.,Darren,I,Kerr,Visa,Telephone installer,male,43,Urban,Yes,29745,Bundle,Yes,Level2,0,2,Yes,Premium
+2241,Ms.,Alisha,A,Benson,Visa,Cable line installer,female,43,Urban,Yes,32053,Single,Yes,Level3,1,2,Yes,Business
+2242,Mr.,Alfie,A,Hamilton,Visa,,male,18,Rural,Yes,5128,Bundle,No,,,,Yes,Premium
+2249,Mr.,Kobe,E,Hughes,Visa,Interior designer,male,71,Urban,Yes,25692,Single,Yes,Level3,1,0,Yes,Senior
+2259,Mr.,Farhan,N,White,Visa,,male,18,Rural,Yes,25830,Bundle,Yes,Level1,0,0,No,
+2260,Mrs.,Alice,J,Bowen,AMEX,X-ray technician,female,46,Urban,Yes,30705,Single,No,,,,No,
+2262,Mr.,Bradley,E,Poole,Visa,Vocational education teacher,male,45,Urban,Yes,38876,Bundle,No,,,,No,
+2263,Mr.,Finlay,P,James,AMEX,,male,46,Urban,Yes,21422,Single,No,,,,Yes,Premium
+2264,Ms.,Jamie,Z,Taylor,,Travel adviser,female,51,Urban,Yes,37762,Single,No,,,,No,
+2270,Ms.,Juliette,L,Martin,AMEX,,female,65,Rural,No,,,Yes,Level1,1,0,No,
+2275,Mr.,Edward,M,Wilson,AMEX,Workforce development officer,male,20,Urban,Yes,27263,Bundle,No,,,,Yes,Business
+2278,Mrs.,Rachael,C,Stevenson,Visa,Bookmobile driver,female,50,Urban,Yes,31808,Single,No,,,,No,
+2287,Mr.,Logan,M,Sanders,Visa,,male,48,Urban,Yes,27948,Single,Yes,Level2,1,2,No,
+2292,Mr.,Mitchell,A,Mackay,AMEX,Bricklayer,male,51,Rural,Yes,19766,Single,Yes,Level2,1,3,No,
+2296,Mrs.,Aila,D,Hill,Visa,,female,49,Rural,Yes,32813,Single,Yes,Level1,1,2,Yes,Business
+2298,Ms.,Tilly,J,Davidson,Visa,,female,55,Rural,Yes,33811,Single,Yes,Level3,1,3,Yes,Premium
+2299,Mr.,Andrew,S,Morton,AMEX,Foreign language interpreter,male,45,Rural,Yes,29866,Single,Yes,Level2,1,2,No,
+2306,Ms.,Megan,S,Woodward,AMEX,Executive administrative assistant,female,18,Urban,Yes,23670,Bundle,No,,,,No,
+2307,Mrs.,Kirstie,T,Shaw,,,female,23,Urban,Yes,4734,Bundle,No,,,,Yes,Backpacker
+2313,Mr.,Harrison,L,Bryan,AMEX,,male,48,Urban,Yes,35724,Single,No,,,,Yes,Business
+2323,Ms.,Chanelle,A,McIntyre,,,female,50,Urban,Yes,-16888,Single,Yes,Level2,1,2,No,
+2329,Mr.,Harrison,F,Harding,Visa,Terrazzo worker,male,47,Urban,Yes,30029,Single,No,,,,Yes,Standard
+2335,Mr.,Mateusz,O,Mackenzie,AMEX,Aircraft electrician,male,18,Urban,Yes,27540,Bundle,No,,,,No,
+2338,Mr.,Luis,C,Milne,AMEX,Horse trainer,male,47,Rural,Yes,18472,Single,Yes,Level2,1,2,No,
+2339,Mr.,Luca,M,Nolan,AMEX,Financial aid director,male,50,Rural,Yes,14318,Single,Yes,Level2,1,2,No,
+2341,Mrs.,Abigail,O,Sanderson,Visa,Gas appliance repairer,female,44,Rural,Yes,16582,Single,Yes,Level2,2,3,Yes,Standard
+2346,Mrs.,Abbey,L,Bruce,AMEX,Screen printing machine operator,female,18,Rural,Yes,28166,Bundle,No,,,,Yes,Premium
+2349,Mr.,Cayden,M,Shaw,AMEX,Literary interpreter,male,54,Rural,Yes,18032,Single,Yes,Level2,0,2,No,
+2351,Ms.,Tegan,J,Coles,Visa,,female,50,Rural,Yes,41649,Single,No,,,,Yes,Business
+2355,Mr.,James,M,Milne,Visa,Pilot,male,19,Rural,Yes,27593,Bundle,No,,,,No,
+2364,Ms.,Inaaya,R,Jamieson,AMEX,Training director,female,46,Rural,Yes,36498,Single,Yes,Level1,0,2,No,
+2365,Mr.,Steven,M,Johnstone,AMEX,Embossing machine operator,male,47,Rural,Yes,13804,Single,Yes,Level2,2,2,Yes,Standard
+2368,Mr.,Thomas,C,Kaur,AMEX,,male,44,Urban,No,,,Yes,Level3,1,3,Yes,Premium
+2377,Mr.,Toby,L,Cunningham,Visa,Social psychologist,male,50,Rural,Yes,15749,Single,Yes,Level1,1,3,No,
+2378,Mr.,Zac,F,Mackenzie,AMEX,,male,23,Urban,Yes,4680,Bundle,No,,,,Yes,Premium
+2379,Mrs.,Eloise,H,Naylor,Visa,,female,20,Urban,Yes,5329,Bundle,No,,,,Yes,Premium
+2382,Mr.,Dylan,L,Doyle,Visa,Civil engineer,male,48,Rural,Yes,16314,Single,No,,,,No,
+2384,Mr.,Jacob,G,Dyer,Visa,Pharmacy technician,male,49,Urban,Yes,29506,Single,Yes,Level3,0,2,Yes,Business
+2388,Dr.,Joel,F,Scott,AMEX,Technical trainer,male,21,Urban,Yes,22806,Bundle,No,,,,Yes,Business
+2395,Ms.,Cora,A,Sinclair,,,female,55,Urban,Yes,38024,Single,No,,,,No,
+2402,Ms.,Melissa,M,Day,,,female,45,Urban,Yes,32292,Single,Yes,Level2,1,2,No,
+2404,Ms.,Summer,J,Fraser,Visa,Staffing consultant,female,61,Rural,Yes,28940,Single,Yes,Level3,1,0,Yes,Senior
+2406,Ms.,Zara,W,Pollard,AMEX,Insurance broker,female,18,Urban,Yes,4830,Single,No,,,,Yes,Standard
+2411,Ms.,Amy-leigh,N,Scott,,Maxillofacial surgeon,female,51,Rural,Yes,15402,Single,Yes,Level3,2,2,Yes,Standard
+2417,Ms.,Jessica,M,Gregory,AMEX,Geologist,female,20,Urban,Yes,4782,Bundle,No,,,,No,
+2423,Mrs.,Skye,S,Gardner,AMEX,,female,46,Urban,No,,,Yes,Level2,1,2,No,
+2428,Mr.,Jaden,C,Smith,AMEX,Rail transportation occupation,male,52,Rural,Yes,10789,Bundle,Yes,Level2,1,2,No,
+2429,Ms.,Abbie,J,Barry,AMEX,Forging machine tender,female,68,Rural,No,,,Yes,Level3,1,0,No,
+2438,Mrs.,Madison,T,Knowles,,Load dispatcher,female,52,Rural,Yes,13758,Single,Yes,Level1,1,3,No,
+2443,Mr.,Brandon,E,Clarke,AMEX,Telephone installer,male,45,Rural,Yes,15442,Single,Yes,Level2,0,2,No,
+2450,Mr.,Tomas,A,Aitken,Visa,Conference service coordinator,male,44,Rural,No,,,Yes,Level2,0,3,No,
+2453,Dr.,Mason,I,Stephens,AMEX,,male,20,Urban,Yes,5067,Bundle,No,,,,Yes,Premium
+2462,Mr.,Louie,H,Gray,Visa,,male,41,Urban,Yes,29259,Single,Yes,Level1,1,3,No,
+2476,Mr.,Musa,N,Morrison,AMEX,,male,45,Urban,No,,,Yes,Level3,1,2,Yes,Business
+2483,Mr.,Frank,J,Fraser,Visa,Quality control technician,male,41,Rural,Yes,14309,Single,Yes,Level2,1,3,Yes,Premium
+2493,Mrs.,Rachel,S,Reeves,AMEX,Poultry farmer,female,47,Rural,Yes,11933,Single,Yes,Level3,1,3,No,
+2498,Ms.,Anna,M,Perry,AMEX,Ambulatory care nurse,female,40,Urban,No,,,No,,,,No,
+2499,Mrs.,Aleah,M,Jamieson,Visa,Appellate court judge,female,42,Urban,No,,,Yes,Level3,0,3,Yes,Business
+2506,Mr.,Oscar,D,Ritchie,,,male,51,Rural,Yes,13516,Single,No,,,,No,
+2513,Mr.,Jude,E,Dodd,Visa,Computer clerk,male,44,Urban,Yes,41027,Bundle,Yes,Level2,0,2,No,
+2516,Mr.,Danny,E,Ross,AMEX,,male,20,Urban,Yes,5158,Bundle,No,,,,Yes,Backpacker
+2519,Mr.,Cody,J,King,Visa,Maxillofacial surgeon,male,18,Urban,Yes,4847,Bundle,No,,,,Yes,Backpacker
+2520,Mr.,Jacob,E,Parkinson,Visa,Independent adjuster,male,51,Rural,Yes,18709,Single,Yes,Level2,1,3,No,
+2530,Mr.,Ellis,N,Marshall,Visa,Cryptanalyst,male,45,Urban,Yes,31535,Bundle,Yes,Level2,1,2,Yes,Business
+2532,Mr.,Connor,L,Hancock,AMEX,Airline pilots,male,64,Rural,Yes,26210,Single,Yes,Level3,0,0,No,
+2536,Ms.,Ellie-louise,D,Russell,AMEX,,female,51,Rural,Yes,16228,Single,No,,,,No,
+2543,Mr.,Sam,I,Hurst,Visa,Veterinary assistants and laboratory animal caretaker,male,53,Rural,Yes,16726,Single,Yes,Level2,1,2,No,
+2548,Mr.,Rayyan,N,Jones,,,male,49,Urban,Yes,31513,Single,Yes,Level2,1,3,Yes,Business
+2549,Ms.,Aleksandra,A,Smith,,,female,41,Urban,Yes,29858,Single,Yes,Level2,0,2,Yes,Premium
+2552,Mr.,Natan,M,White,AMEX,Door-to-door sales worker,male,45,Urban,Yes,35148,Single,No,,,,No,
+2553,Ms.,Abbi,B,Kerr,,Outside order clerk,female,21,Urban,No,,,Yes,Level1,0,0,Yes,Backpacker
+2554,Mrs.,Skye,M,Osborne,AMEX,Purchasing technician,female,49,Urban,Yes,19063,Single,Yes,Level3,0,3,No,
+2563,Mr.,Michael,D,Chadwick,Visa,Forensic nurse,male,43,Urban,Yes,35750,Bundle,No,,,,No,
+2564,Mr.,Victor,J,Marshall,,Chiropractor,male,20,Urban,Yes,5091,Bundle,No,,,,Yes,Premium
+2579,Mr.,Conor,P,Macleod,AMEX,Winch operator,male,19,Urban,Yes,4883,Bundle,No,,,,Yes,Backpacker
+2587,Mr.,Bobby,H,McGregor,AMEX,,male,70,Rural,Yes,20496,Single,Yes,Level2,0,0,Yes,Senior
+2588,Mrs.,Tara,A,Shaw,Visa,Zoologist,female,19,Urban,Yes,24084,Bundle,No,,,,No,
+2592,Ms.,Evie,J,Burrows,AMEX,Radio announcer,female,44,Rural,Yes,14340,Single,No,,,,Yes,Business
+2599,Mr.,Natan,Y,Paterson,AMEX,,male,51,Rural,Yes,8235,Single,Yes,Level3,0,3,Yes,Business
+2605,Ms.,Matilda,R,Cooper,AMEX,,female,55,Urban,Yes,18999,Single,Yes,Level2,2,3,No,
+2611,Mrs.,Leah,M,Jones,AMEX,Machine setter,female,47,Urban,Yes,38570,Single,No,,,,No,
+2614,Mrs.,Harriet,F,Goodwin,Visa,Tax examiner,female,50,Rural,No,,,Yes,Level3,2,2,No,
+2618,Mr.,Kian,S,Thompson,AMEX,Industrial maintenance worker,male,21,Urban,Yes,5095,Bundle,Yes,Level1,0,0,Yes,Backpacker
+2620,Mrs.,Stella,N,MacDonald,Visa,Coache,female,52,Urban,Yes,31471,Bundle,Yes,Level2,1,3,Yes,Premium
+2624,Ms.,Cerys,A,Brown,AMEX,Inhalation therapist,female,19,Rural,Yes,24331,Bundle,No,,,,Yes,Premium
+2630,Mr.,William,R,Gardiner,AMEX,Emergency care nurse,male,22,Urban,No,,,No,,,,Yes,Business
+2634,Mr.,Toby,E,Cameron,,,male,49,Urban,Yes,36819,Single,Yes,Level3,1,3,Yes,Business
+2638,Mr.,Caelan,M,Grant,AMEX,,male,45,Urban,Yes,27216,Single,No,,,,No,
+2646,Mrs.,Teigan,A,King,AMEX,Product designer,female,48,Urban,Yes,30894,Single,Yes,Level2,1,2,Yes,Premium
+2670,Mrs.,Grace,N,Payne,AMEX,Nurse practitioner,female,48,Rural,Yes,14988,Single,Yes,Level2,1,2,No,
+2673,Ms.,Tia,D,Francis,Visa,Physical chemist,female,18,Urban,Yes,5085,Bundle,No,,,,Yes,Backpacker
+2677,Mrs.,Neave,M,Craig,AMEX,,female,45,Urban,Yes,33473,Single,Yes,Level2,1,2,No,
+2687,Mr.,Muhammad,L,Chadwick,Visa,Cost engineer,male,48,Urban,Yes,32329,Bundle,Yes,Level2,0,3,Yes,Business
+2691,Mrs.,Ashley,J,Docherty,Visa,Staff development specialist,female,20,Urban,Yes,27614,Bundle,Yes,Level1,1,0,Yes,Backpacker
+2697,Mr.,Kyle,L,Graham,,Floor broker,male,19,Urban,Yes,4812,Bundle,Yes,Level1,1,0,Yes,Backpacker
+2698,Mrs.,Ailey,G,Watson,AMEX,,female,20,Urban,Yes,20670,Bundle,Yes,Level1,0,0,Yes,Premium
+2702,Mrs.,Amna,C,Hunter,Visa,,female,18,Rural,Yes,25961,Bundle,No,,,,Yes,Premium
+2713,Mr.,Anas,K,Sinclair,AMEX,Purchasing clerk,male,19,Rural,No,,,No,,,,Yes,Backpacker
+2716,Mr.,Reece,M,Docherty,Visa,,male,66,Rural,Yes,29372,Single,No,,,,Yes,Senior
+2725,Mrs.,Jodie,T,Millar,,,female,53,Rural,Yes,8112,Single,Yes,Level3,1,2,Yes,Business
+2731,Mr.,Archie,M,Robinson,AMEX,Letterpress operator,male,46,Urban,Yes,31111,Bundle,No,,,,No,
+2735,Mrs.,Molly,E,Allan,Visa,Administrative services manager,female,43,Rural,Yes,15332,Single,Yes,Level2,2,2,No,
+2736,Mr.,Sean,K,Cooper,AMEX,,male,20,Urban,Yes,31358,Bundle,Yes,Level1,0,0,Yes,Premium
+2738,Ms.,Sky,X,Ritchie,AMEX,Occupational health and safety inspector,female,19,Urban,Yes,5126,Bundle,No,,,,No,
+2743,Mrs.,Ruth,L,Fraser,,,female,42,Urban,Yes,31269,Single,Yes,Level1,1,3,No,
+2748,Mr.,Isaac,R,Kerr,Visa,Copy editor,male,52,Rural,No,,,Yes,Level3,1,2,No,
+2754,Mrs.,Sally,W,Thomson,AMEX,,female,50,Urban,Yes,31407,Single,Yes,Level1,1,3,Yes,Business
+2761,Ms.,Eve,J,Fox,AMEX,LAN manager,female,19,Urban,Yes,4930,Bundle,Yes,Level1,0,0,Yes,Backpacker
+2775,Ms.,Darcy,A,White,Visa,,female,44,Urban,Yes,19207,Single,Yes,Level1,2,2,No,
+2784,Mr.,Declan,K,Alexander,Visa,Agricultural engineer,male,65,Rural,Yes,28273,Single,Yes,Level3,1,0,Yes,Senior
+2793,Mr.,Aden,R,Bell,,,male,46,Rural,No,,,Yes,Level3,0,3,No,
+2795,Mrs.,Paige,H,Collier,AMEX,,female,45,Urban,Yes,35228,Single,Yes,Level2,1,3,No,
+2796,Mr.,Rory,A,Paterson,,Violin repairer,male,46,Rural,No,,,Yes,Level2,1,2,Yes,Premium
+2809,Ms.,Lilly,F,Myers,AMEX,Materials scientist,female,46,Urban,Yes,14003,Single,Yes,Level1,1,3,No,
+2810,Mr.,Dominic,N,Bennett,AMEX,Map editor,male,43,Rural,Yes,18018,Single,Yes,Level1,0,3,Yes,Standard
+2815,Mr.,Liam,A,Hussain,AMEX,,male,53,Rural,Yes,35605,Single,No,,,,Yes,Business
+2816,Mr.,Jonathan,C,Marshall,Visa,Polisher,male,46,Urban,Yes,34894,Single,Yes,Level2,1,2,Yes,Standard
+2817,Mr.,Kris,J,Ross,AMEX,Mortgage loan officer,male,50,Urban,Yes,32680,Bundle,Yes,Level2,2,3,No,
+2818,Mr.,Harrison,L,Taylor,Visa,Special education teacher,male,43,Urban,Yes,32369,Single,No,,,,No,
+2821,Mr.,Cian,F,Douglas,Visa,,male,47,Rural,Yes,11055,Single,Yes,Level2,1,3,No,
+2826,Mrs.,Eve,B,Metcalfe,,Dietetic technician,female,45,Rural,No,,,No,,,,No,
+2827,Mr.,Matthew,S,Dawson,AMEX,Pharmacist,male,47,Urban,Yes,34056,Single,Yes,Level1,0,2,Yes,Business
+2831,Mrs.,Shannon,L,Dickinson,AMEX,Handymen,female,23,Urban,Yes,5365,Bundle,No,,,,Yes,Backpacker
+2832,Ms.,Poppy,T,Woods,Visa,,female,19,Urban,No,,,No,,,,No,
+2841,Mrs.,Lydia,C,French,AMEX,City planner,female,47,Rural,No,,,Yes,Level2,0,2,Yes,Business
+2848,Mr.,Samuel,S,Wilson,Visa,Bookkeeping clerk,male,44,Urban,Yes,29471,Single,No,,,,No,
+2849,Mrs.,Esme,C,Thomson,AMEX,Aircraft surfaces assembler,female,18,Urban,No,,,No,,,,Yes,Backpacker
+2856,Ms.,Louise,F,Mitchell,AMEX,Line repairer,female,24,Rural,Yes,21238,Bundle,No,,,,Yes,Backpacker
+2867,Mr.,Charlie,C,Pickering,AMEX,Time and attendance clerk,male,46,Urban,Yes,13896,Single,No,,,,No,
+2872,Mr.,McKenzie,C,McGregor,AMEX,Placement director,male,46,Urban,Yes,30585,Single,Yes,Level1,0,3,Yes,Standard
+2873,Mr.,Jaden,W,Williamson,Visa,Homeowner association manager,male,41,Rural,Yes,34270,Single,Yes,Level2,1,2,Yes,Backpacker
+2885,Mr.,Robert,N,Daniels,,Radiologic nurse,male,23,Urban,Yes,24266,Bundle,No,,,,Yes,Premium
+2889,Dr.,Sofia,T,O'Brien,Visa,Sorter,female,20,Urban,Yes,5070,Bundle,No,,,,Yes,Premium
+2901,Mr.,Edward,H,Flynn,AMEX,,male,71,Rural,Yes,23743,Single,Yes,Level2,0,0,Yes,Senior
+2902,Mr.,Christopher,L,Kemp,Visa,Cementing and gluing machine tender,male,43,Urban,No,,,No,,,,No,
+2908,Mrs.,Sophia,K,Bryan,,Human resources administrative assistant,female,45,Rural,Yes,31076,Single,Yes,Level3,1,3,No,
+2915,Mr.,Henry,M,Allen,Visa,,male,48,Rural,Yes,16108,Single,Yes,Level2,1,2,No,
+2919,Mr.,Jake,M,Johnson,Visa,Lawyer,male,21,Rural,Yes,20537,Single,No,,,,Yes,Premium
+2921,Ms.,Tara,W,Johnstone,,,female,48,Urban,Yes,36065,Single,Yes,Level1,0,2,No,
+2926,Mr.,Mason,M,Chambers,AMEX,Account executive,male,51,Urban,Yes,13793,Single,Yes,Level2,0,2,No,
+2931,Ms.,Scarlett,Z,Kelly,Visa,Finance manager,female,21,Rural,Yes,22536,Bundle,No,,,,No,
+2934,Mr.,Jason,D,Muir,,Food batchmaker,male,48,Urban,Yes,12181,Single,Yes,Level2,1,2,Yes,Standard
+2940,Ms.,Macy,K,Mackenzie,AMEX,University professor,female,19,Rural,Yes,4945,Bundle,No,,,,Yes,Backpacker
+2941,Mrs.,Harriet,B,Marsh,AMEX,,female,46,Urban,Yes,34652,Single,No,,,,No,
+2944,Mr.,Fergus,C,Kelly,,Historian,male,70,Urban,Yes,22218,Single,Yes,Level3,0,0,Yes,Premium
+2946,Mr.,Harry,M,Sykes,Visa,Milling and planing machine tender,male,19,Rural,Yes,23873,Bundle,Yes,Level1,0,0,Yes,Premium
+2948,Ms.,Josie,E,MacDonald,AMEX,,female,55,Rural,Yes,17450,Single,No,,,,Yes,Premium
+2951,Mrs.,Gabriela,F,Kelly,AMEX,,female,45,Urban,Yes,29029,Single,Yes,Level2,1,2,Yes,Business
+2952,Ms.,Rhianna,S,Mackay,AMEX,Police dispatcher,female,49,Urban,Yes,33654,Single,Yes,Level2,1,3,Yes,Business
+2956,Mrs.,Elizabeth,C,McDonald,,,female,65,Urban,Yes,26631,Bundle,Yes,Level1,1,1,No,
+2978,Ms.,Paige,R,Giles,Visa,,female,49,Urban,No,,,Yes,Level2,1,2,No,
+2979,Mr.,Liam,O,Thomson,Visa,,male,51,Rural,Yes,9231,Single,Yes,Level2,1,3,No,
+2992,Ms.,Jessica,H,Hunter,AMEX,Revenue officer,female,42,Urban,Yes,30928,Single,Yes,Level3,1,2,No,
+2996,Mrs.,Teegan,C,McMillan,AMEX,Job development specialist,female,46,Urban,Yes,34585,Single,Yes,Level2,2,3,Yes,Standard
+3000,Mr.,Artur,A,Burns,Visa,,male,48,Urban,Yes,32253,Single,Yes,Level2,0,2,No,
+3003,Mr.,Junior,B,Cunningham,,,male,50,Urban,Yes,28566,Single,No,,,,No,
+3009,Ms.,Aaliyah,L,Howard,Visa,Special education teacher,female,44,Urban,Yes,36194,Single,Yes,Level2,0,2,Yes,Business
+3010,Ms.,Miya,M,Docherty,Visa,,female,47,Urban,Yes,36413,Single,Yes,Level2,1,3,Yes,Business
+3011,Mr.,Declan,S,Carey,AMEX,Fire prevention specialist,male,45,Urban,Yes,37369,Single,No,,,,Yes,Business
+3016,Dr.,Brayden,K,Jones,Visa,,male,42,Urban,Yes,34006,Single,Yes,Level3,1,2,No,
+3018,Ms.,Abigail,C,Moore,AMEX,,female,20,Rural,Yes,24239,Bundle,Yes,Level1,0,0,Yes,Standard
+3031,Mr.,Israel,R,Campbell,,Human resources representative,male,49,Rural,Yes,21339,Single,Yes,Level2,0,3,Yes,Standard
+3032,Mrs.,Keeva,C,Gibson,Visa,Gaming services,female,53,Urban,No,,,Yes,Level2,1,3,Yes,Business
+3033,Mrs.,Demi,H,Fox,Visa,Administrative support services director,female,47,Urban,Yes,19621,Single,Yes,Level1,1,3,No,
+3036,Ms.,Nicole,M,Walker,Visa,Electronic transcriber,female,19,Urban,Yes,4919,Single,No,,,,Yes,Backpacker
+3038,Mrs.,Annalise,O,Grant,Visa,Numerical tool and process control programmer,female,49,Rural,Yes,10375,Single,Yes,Level1,2,2,No,
+3039,Mrs.,Lauryn,D,Clark,Visa,,female,20,Urban,Yes,5109,Bundle,No,,,,No,
+3040,Ms.,McKenzie,Z,Johnston,Visa,,female,49,Urban,Yes,30921,Single,Yes,Level2,0,2,No,
+3041,Mr.,Alastair,S,Scott,Visa,Superintendent,male,20,Urban,Yes,27629,Bundle,Yes,Level1,0,0,Yes,Premium
+3049,Mrs.,Mollie,F,Holloway,Visa,Localization translator,female,19,Urban,Yes,23277,Bundle,No,,,,Yes,Business
+3050,Mr.,Finley,M,Nolan,,,male,46,Urban,Yes,41337,Single,Yes,Level3,1,3,Yes,Business
+3056,Mr.,Harley,C,May,,Administrative support services director,male,45,Rural,Yes,17131,Single,Yes,Level2,1,3,No,
+3060,Mr.,Arthur,A,Fleming,Visa,Brokerage sales assistant,male,44,Urban,Yes,15864,Single,Yes,Level1,0,2,Yes,Standard
+3061,Ms.,Maya,G,Herbert,Visa,,female,49,Urban,Yes,12884,Single,Yes,Level1,1,3,No,
+3062,Mr.,Adam,T,Poole,AMEX,,male,46,Rural,Yes,29187,Single,Yes,Level2,0,2,No,
+3067,Mrs.,Lucy,S,Watts,Visa,,female,21,Rural,Yes,28967,Single,Yes,Level3,1,0,Yes,Backpacker
+3070,Mr.,Natan,B,Stevenson,Visa,,male,18,Rural,No,,,No,,,,Yes,Business
+3071,Dr.,Lilly,J,Akhtar,AMEX,Health physicist,female,18,Urban,No,,,Yes,Level1,0,0,Yes,Premium
+3076,Ms.,Annie,R,Walker,AMEX,,female,67,Urban,Yes,35605,Bundle,Yes,Level2,1,0,Yes,Premium
+3079,Ms.,Addison,E,McDonald,Visa,Engineer,female,42,Urban,Yes,32584,Single,Yes,Level2,1,2,No,
+3083,Mrs.,Lilly,M,Garner,AMEX,,female,48,Urban,Yes,40736,Single,Yes,Level2,1,3,Yes,Business
+3085,Mr.,Aiden,J,Smith,,,male,49,Rural,Yes,15066,Single,No,,,,No,
+3087,Mrs.,Miriam,H,Bruce,Visa,,female,49,Rural,Yes,12195,Single,No,,,,No,
+3094,Mrs.,Alana,Y,Kerr,Visa,Microbiologist,female,20,Rural,Yes,27882,Bundle,No,,,,Yes,Premium
+3103,Mr.,James,E,Hutchinson,AMEX,Homeowner association manager,male,23,Rural,Yes,31474,Bundle,No,,,,Yes,Premium
+3125,Mr.,Nicholas,C,Lawrence,,Gaming supervisor,male,48,Urban,Yes,38029,Single,Yes,Level3,1,2,No,
+3132,Ms.,Hollie,A,Stevens,AMEX,Training consultant,female,54,Rural,Yes,16278,Single,Yes,Level2,0,2,No,
+3133,Mr.,Alan,P,Fraser,AMEX,Power dispatcher,male,51,Urban,Yes,45494,Single,Yes,Level3,1,3,Yes,Premium
+3141,Ms.,Emma,B,Bradley,AMEX,Policy analyst,female,66,Rural,Yes,20714,Single,No,,,,Yes,Senior
+3143,Mrs.,Hannah,A,Whitehead,Visa,Cutter,female,18,Urban,Yes,26111,Bundle,Yes,Level1,1,0,Yes,Backpacker
+3144,Mrs.,Neive,E,Allan,AMEX,,female,54,Rural,Yes,12013,Single,Yes,Level2,2,2,No,
+3150,Mr.,Bradley,I,Marsden,AMEX,Aerobics instructor,male,46,Rural,No,,,Yes,Level2,0,2,No,
+3160,Mrs.,Abby,A,Gray,AMEX,Camera repairer,female,47,Rural,Yes,28923,Single,Yes,Level1,1,3,No,
+3164,Ms.,Esther,K,Anderson,Visa,,female,67,Rural,Yes,25709,Single,Yes,Level3,1,0,Yes,Standard
+3177,Ms.,Madison,Y,Hay,Visa,,female,21,Urban,Yes,5051,Bundle,No,,,,No,
+3179,Mrs.,Shona,C,Craig,,,female,45,Urban,Yes,33850,Single,No,,,,Yes,Business
+3185,Mr.,Rory,H,Murray,AMEX,Fence erector,male,52,Urban,Yes,33315,Single,Yes,Level2,1,2,No,
+3191,Mr.,Nathaniel,K,Paterson,AMEX,,male,24,Urban,Yes,4584,Bundle,No,,,,Yes,Backpacker
+3196,Ms.,Abbie,A,Campbell,Visa,,female,48,Urban,Yes,32598,Single,No,,,,No,
+3200,Mr.,Oliwier,A,Duncan,,Hand typesetter,male,45,Urban,Yes,25816,Single,Yes,Level3,1,2,Yes,Business
+3213,Mr.,Arron,L,Reid,AMEX,,male,21,Urban,Yes,4577,Bundle,No,,,,No,
+3223,Mr.,Connor,C,Brown,AMEX,Groundskeeping worker,male,46,Rural,Yes,17998,Single,Yes,Level1,1,2,No,
+3227,Dr.,Toby,M,Andrews,Visa,Finisher,male,53,Urban,Yes,31439,Single,Yes,Level2,1,2,Yes,Business
+3229,Mr.,Boyd,A,Brown,Visa,Window clerk,male,50,Rural,Yes,14407,Single,Yes,Level1,0,3,No,
+3230,Ms.,Constance,M,Reilly,,Exercise instructor,female,46,Rural,Yes,11240,Single,Yes,Level2,2,3,No,
+3236,Ms.,Sophia,M,Read,AMEX,,female,51,Rural,Yes,17227,Single,Yes,Level1,0,2,Yes,Standard
+3237,Mrs.,Aimee,C,Patel,AMEX,Excavating operator,female,45,Urban,Yes,37720,Single,Yes,Level1,1,2,Yes,Premium
+3242,Mrs.,Mairi,G,Robertson,,Image designer,female,23,Urban,Yes,4943,Bundle,No,,,,Yes,Backpacker
+3244,Mr.,Joseph,S,Davey,Visa,News photographer,male,42,Urban,Yes,36784,Bundle,Yes,Level2,1,2,Yes,Standard
+3247,Mr.,Christian,F,Munro,Visa,Environmental meteorologist,male,26,Rural,Yes,31693,Bundle,No,,,,Yes,Premium
+3248,Mr.,Morgan,B,Moran,,,male,21,Urban,Yes,24304,Bundle,Yes,Level1,0,0,Yes,Premium
+3251,Mr.,Reagan,M,Shaw,AMEX,Engineering technician,male,52,Urban,Yes,20820,Single,No,,,,Yes,Standard
+3272,Ms.,Victoria,A,Page,Visa,Psychiatric nurse,female,49,Urban,Yes,33685,Single,No,,,,Yes,Standard
+3273,Ms.,Milly,M,Millar,,Control and valve repairer,female,18,Urban,Yes,26689,Bundle,Yes,Level1,0,0,No,
+3277,Mr.,Jack,L,Duncan,AMEX,Publicity writer,male,50,Urban,Yes,11064,Single,Yes,Level2,1,2,No,
+3280,Mr.,Evan,M,Andrews,,Creative writer,male,44,Urban,Yes,33737,Single,Yes,Level2,1,2,No,
+3282,Ms.,Daisy,E,Carter,AMEX,Animal control worker,female,18,Rural,No,,,No,,,,No,
+3286,Ms.,Freya,C,Hewitt,,,female,21,Rural,Yes,27894,Bundle,Yes,Level2,0,0,No,
+3299,Mr.,Gabriel,H,Charlton,Visa,Water conservationist,male,50,Urban,Yes,11346,Single,Yes,Level2,2,2,No,
+3301,Dr.,Luca,R,Barber,Visa,Medical records and health information technician,male,50,Urban,Yes,28230,Single,Yes,Level1,1,3,No,
+3304,Mr.,Malachy,A,McIntosh,Visa,Press operator,male,22,Urban,Yes,27913,Bundle,Yes,Level1,1,0,No,
+3305,Mrs.,Ava,B,Chambers,AMEX,Record center clerk,female,40,Urban,Yes,30797,Single,No,,,,Yes,Backpacker
+3311,Mr.,Paul,M,Maclean,,Private accountant,male,47,Rural,Yes,14507,Single,Yes,Level2,1,3,Yes,Business
+3314,Mr.,Alan,A,Stewart,,Medicinal chemist,male,50,Urban,Yes,17878,Single,Yes,Level2,0,2,No,
+3320,Mr.,Ian,L,Anderson,AMEX,Activity specialist,male,21,Urban,Yes,25449,Bundle,Yes,Level1,0,0,No,
+3336,Mrs.,Anna,J,Davis,Visa,Employment assistant,female,43,Urban,No,,,Yes,Level2,1,3,No,
+3340,Mrs.,Demi-lee,C,Fleming,AMEX,Principal,female,48,Urban,Yes,32560,Single,Yes,Level2,1,2,No,
+3346,Mr.,Bailey,B,Docherty,,,male,67,Urban,Yes,32602,Single,Yes,Level2,1,0,Yes,Senior
+3351,Mr.,Lleyton,B,Sutherland,Visa,,male,44,Urban,Yes,34328,Single,Yes,Level1,2,2,Yes,Business
+3355,Mr.,William,E,Waters,Visa,Exterminator,male,47,Rural,Yes,20418,Single,Yes,Level2,1,2,No,
+3364,Ms.,Cassidy,B,Thomson,,Criminal investigator,female,48,Rural,Yes,15896,Single,Yes,Level1,1,2,No,
+3372,Ms.,Lilly,Z,Morrison,Visa,,female,49,Urban,Yes,38677,Single,Yes,Level3,0,2,Yes,Premium
+3376,Mr.,Duncan,M,Thomson,,,male,50,Rural,No,,,No,,,,No,
+3379,Mrs.,Karolina,J,Duncan,Visa,,female,18,Urban,No,,,No,,,,Yes,Backpacker
+3381,Mrs.,Madeleine,F,Houghton,Visa,Gaming machine repairer,female,54,Rural,Yes,16297,Single,Yes,Level3,1,3,No,
+3391,Ms.,Louise,M,Johnston,Visa,,female,52,Urban,Yes,33169,Single,Yes,Level2,1,3,Yes,Business
+3393,Mr.,Xander,N,Ross,,,male,44,Rural,No,,,Yes,Level3,0,2,No,
+3399,Mr.,Damien,J,McGregor,AMEX,Fish trimmer,male,45,Urban,Yes,27918,Single,No,,,,Yes,Standard
+3401,Mr.,Luca,I,Francis,Visa,,male,20,Urban,Yes,30019,Bundle,Yes,Level2,0,0,Yes,Business
+3405,Mr.,Owen,S,Baker,Visa,Bill and account collector,male,47,Urban,Yes,15035,Single,Yes,Level2,1,2,No,
+3406,Mr.,Jacob,N,Hancock,Visa,Orthotist,male,69,Rural,Yes,22983,Single,Yes,Level1,2,0,Yes,Standard
+3408,Mrs.,Isabelle,J,Carter,,,female,49,Rural,Yes,13244,Single,Yes,Level1,0,3,Yes,Business
+3409,Mr.,Maximilian,R,Bell,AMEX,Broadcast and sound engineering technician,male,46,Urban,Yes,30701,Single,Yes,Level3,1,3,No,
+3410,Mrs.,Chanel,H,Hughes,AMEX,Biostatistician,female,46,Urban,Yes,32131,Single,Yes,Level3,2,3,No,
+3414,Mr.,Matthew,A,Garner,Visa,,male,46,Rural,Yes,19440,Single,Yes,Level2,1,3,No,
+3421,Ms.,Karis,P,Duncan,AMEX,Computer typesetter,female,20,Urban,Yes,4961,Bundle,No,,,,Yes,Premium
+3426,Mrs.,Lia,E,Wilson,AMEX,,female,47,Rural,Yes,15356,Single,Yes,Level1,1,2,Yes,Business
+3429,Ms.,Natasha,A,Ryan,Visa,Public health dietitian,female,48,Urban,No,,,Yes,Level2,2,3,No,
+3441,Mr.,Adam,B,Hobbs,Visa,Marine,male,51,Rural,Yes,29957,Single,Yes,Level2,0,3,Yes,Business
+3451,Ms.,Poppy,S,Harris,AMEX,,female,53,Rural,Yes,8439,Single,Yes,Level2,2,3,Yes,Business
+3452,Ms.,Eloise,L,Wood,Visa,Aircraft and avionics service technician,female,52,Urban,Yes,32467,Single,Yes,Level2,2,2,Yes,Business
+3459,Mrs.,Skye,L,James,AMEX,,female,50,Rural,Yes,19308,Single,Yes,Level2,1,2,Yes,Standard
+3461,Mrs.,Charlotte,J,Cunningham,AMEX,,female,21,Urban,Yes,26574,Bundle,Yes,Level3,0,0,Yes,Standard
+3466,Mrs.,Mackenzie,F,Crawford,Visa,Landscape contractor,female,21,Urban,No,,,Yes,Level1,0,0,Yes,Business
+3473,Mr.,Arthur,E,Henderson,AMEX,,male,48,Rural,Yes,17331,Single,No,,,,No,
+3474,Mr.,Andrew,C,Miller,AMEX,,male,54,Rural,Yes,19719,Single,Yes,Level2,1,3,Yes,Standard
+3475,Mr.,Morgan,M,Randall,Visa,Interviewer,male,47,Urban,Yes,35923,Single,Yes,Level1,1,2,Yes,Business
+3479,Mrs.,Sophie,M,Anderson,AMEX,Purchasing clerk,female,20,Urban,Yes,5424,Bundle,No,,,,Yes,Backpacker
+3489,Mr.,Xavier,A,Walker,,Epidemiologist,male,20,Urban,Yes,26646,Bundle,Yes,Level1,0,0,Yes,Premium
+3499,Mr.,Aydin,N,Milne,AMEX,Rigging chaser,male,41,Urban,Yes,21027,Single,Yes,Level2,0,2,No,
+3502,Mr.,David,N,Cunningham,Visa,Brake repairer,male,21,Rural,Yes,18234,Bundle,No,,,,Yes,Business
+3510,Mr.,Roman,M,Brown,AMEX,Log debarker,male,21,Urban,No,,,No,,,,No,
+3513,Mr.,Haiden,T,Crawford,AMEX,Upholsterer,male,22,Urban,Yes,25267,Bundle,No,,,,Yes,Premium
+3516,Mr.,Xander,E,Shaw,Visa,Teacher aide,male,50,Urban,No,,,Yes,Level3,1,2,Yes,Standard
+3517,Mrs.,Eloise,B,Hargreaves,,,female,54,Rural,No,,,Yes,Level1,1,3,No,
+3520,Mrs.,Callie,C,Henderson,Visa,Endodontist,female,19,Urban,Yes,33261,Bundle,Yes,Level3,0,0,Yes,Backpacker
+3528,Mr.,Brian,H,Morrison,AMEX,Rock splitter,male,53,Rural,Yes,17567,Single,No,,,,Yes,Business
+3531,Mr.,Daniel,N,Porter,Visa,Ornamental ironworker,male,52,Rural,Yes,12785,Single,Yes,Level2,2,3,No,
+3541,Mr.,Leon,C,O'Sullivan,AMEX,,male,18,Urban,No,,,No,,,,Yes,Backpacker
+3546,Mr.,Lukas,S,Docherty,Visa,,male,69,Urban,Yes,27282,Bundle,Yes,Level3,1,0,Yes,Senior
+3547,Ms.,Yvie,D,Marshall,Visa,,female,22,Urban,Yes,4960,Bundle,No,,,,Yes,Backpacker
+3548,Mrs.,Camryn,A,Hill,Visa,Tour bus driver,female,46,Urban,Yes,34544,Single,Yes,Level3,0,2,Yes,Standard
+3551,Ms.,Ella,I,Young,Visa,Knitting machine operator,female,43,Urban,Yes,32810,Single,Yes,Level2,1,2,Yes,Standard
+3553,Mr.,Peter,M,Booth,,Machine offbearer,male,66,Rural,Yes,21522,Single,Yes,Level2,0,0,Yes,Senior
+3562,Mr.,Bradley,E,Pope,,Professional scout,male,46,Urban,Yes,37196,Single,Yes,Level2,1,2,Yes,Business
+3565,Mr.,Haiden,P,Bell,Visa,Executive secretary,male,20,Rural,Yes,21880,Bundle,No,,,,Yes,Backpacker
+3571,Mr.,Charles,M,Steele,,Florist,male,24,Urban,No,,,No,,,,Yes,Backpacker
+3572,Mr.,Anthony,C,Kay,AMEX,Public works inspector,male,46,Rural,Yes,15938,Single,Yes,Level2,0,2,No,
+3574,Mr.,Iain,F,Hill,Visa,Clinical laboratory technician,male,18,Urban,Yes,4806,Single,No,,,,Yes,Standard
+3575,Ms.,Lauren,J,Power,AMEX,,female,23,Rural,Yes,28476,Bundle,No,,,,No,
+3578,Mrs.,Heather,H,Fleming,AMEX,,female,72,Rural,No,,,Yes,Level2,0,0,No,
+3580,Dr.,Patrick,L,Owen,,Realtor,male,46,Urban,Yes,37352,Single,Yes,Level1,1,3,No,
+3588,Mr.,Adam,I,Evans,Visa,,male,44,Rural,Yes,18584,Single,Yes,Level2,1,2,No,
+3594,Mr.,Brandon,P,Godfrey,AMEX,Heat treating equipment setter,male,46,Urban,Yes,28796,Single,Yes,Level3,1,3,No,
+3598,Mr.,Gabriel,A,Green,Visa,Data entry clerk,male,51,Urban,Yes,30276,Single,Yes,Level2,1,2,No,
+3599,Mrs.,Hannah,D,Webster,,Loss prevention agent,female,47,Rural,Yes,15333,Bundle,Yes,Level2,0,2,Yes,Standard
+3601,Ms.,Sian,B,Mitchell,Visa,Shoe machine tender,female,21,Urban,Yes,5288,Bundle,No,,,,Yes,Backpacker
+3602,Ms.,Victoria,K,Whitehead,,,female,22,Urban,Yes,4902,Single,No,,,,Yes,Backpacker
+3610,Mr.,Franciszek,S,Hill,,Podiatrist,male,20,Urban,Yes,21102,Bundle,No,,,,Yes,Standard
+3619,Ms.,April,T,Reid,Visa,Desktop publisher,female,44,Urban,No,,,Yes,Level3,1,2,Yes,Backpacker
+3628,Mr.,Magnus,H,Milne,AMEX,Concierge,male,45,Urban,Yes,17355,Single,Yes,Level1,0,2,No,
+3630,Mr.,Charles,H,Robinson,AMEX,Extruding forming pressing and compacting machine setter,male,41,Rural,Yes,12995,Single,No,,,,No,
+3631,Mr.,Frank,P,Johnston,Visa,Sawing machine operator,male,47,Urban,Yes,33165,Single,No,,,,Yes,Business
+3640,Mrs.,Carmen,A,Campbell,Visa,,female,20,Rural,Yes,18436,Bundle,No,,,,Yes,Backpacker
+3651,Mrs.,Emilie,C,Mitchell,AMEX,Welding worker,female,20,Urban,No,,,Yes,Level2,1,0,Yes,Business
+3654,Mrs.,Autumn,C,Ross,AMEX,Support clerk,female,50,Urban,Yes,15046,Single,Yes,Level1,1,2,No,
+3658,Mr.,John,B,Brennan,AMEX,Administrator,male,49,Urban,Yes,40953,Single,Yes,Level1,0,2,Yes,Business
+3663,Mrs.,Sophie,R,Forbes,Visa,,female,48,Urban,Yes,33848,Single,Yes,Level1,1,3,Yes,Backpacker
+3666,Mr.,Harrison,K,Byrne,Visa,,male,45,Urban,Yes,34316,Single,Yes,Level1,1,2,No,
+3674,Mrs.,Eve,M,Dyer,AMEX,Biostatistician,female,25,Rural,No,,,No,,,,Yes,Backpacker
+3676,Mrs.,Safa,D,Crawford,AMEX,Usher,female,44,Urban,Yes,29660,Single,No,,,,No,
+3682,Mr.,William,K,Webster,Visa,,male,23,Urban,Yes,5072,Bundle,No,,,,Yes,Backpacker
+3684,Mr.,Caden,S,Craig,AMEX,Sampler,male,45,Rural,Yes,36399,Single,Yes,Level2,1,3,Yes,Business
+3689,Mrs.,Ellis,O,Murphy,Visa,,female,20,Urban,Yes,4889,Bundle,No,,,,Yes,Backpacker
+3701,Ms.,Darcy,H,Hunter,Visa,Weigher,female,66,Rural,Yes,33180,Single,Yes,Level3,0,0,Yes,Senior
+3702,Mrs.,Brooke,R,Elliott,AMEX,Simultaneous interpreter,female,20,Urban,Yes,26228,Single,Yes,Level2,0,0,Yes,Business
+3705,Ms.,Kira,Z,Anderson,AMEX,Office administrator,female,19,Urban,Yes,5210,Bundle,No,,,,Yes,Standard
+3710,Mr.,Gabriel,Y,Perry,Visa,Food science technician,male,54,Rural,Yes,12277,Single,Yes,Level2,0,2,No,
+3723,Mr.,Christopher,K,Dawson,,,male,47,Rural,Yes,39513,Single,No,,,,Yes,Standard
+3728,Mr.,Jamie,L,Walker,Visa,Registered nurse,male,19,Rural,Yes,22062,Bundle,Yes,Level1,2,0,Yes,Premium
+3734,Mr.,Darragh,A,Sinclair,,,male,48,Rural,Yes,35379,Single,Yes,Level2,2,2,No,
+3737,Mr.,Riley,M,Johnson,,Extruding and forming machine operator,male,54,Rural,Yes,15102,Single,Yes,Level3,1,3,No,
+3751,Mr.,Craig,S,Reilly,AMEX,,male,20,Urban,Yes,23654,Bundle,Yes,Level1,0,0,Yes,Business
+3756,Mr.,James,S,Garner,,Blaster,male,22,Rural,Yes,5151,Bundle,Yes,Level1,1,0,Yes,Backpacker
+3758,Mr.,Conner,R,Donaldson,AMEX,Electrical power line repairer,male,46,Urban,Yes,39666,Single,No,,,,No,
+3759,Mrs.,Alexa,R,Crawford,Visa,Law librarian,female,19,Urban,Yes,5239,Single,No,,,,Yes,Standard
+3760,Mr.,Gregor,Z,Hay,Visa,Management scientist,male,52,Rural,Yes,14509,Bundle,No,,,,No,
+3768,Mr.,Leo,S,Skinner,AMEX,,male,46,Urban,Yes,30576,Single,Yes,Level2,2,2,Yes,Premium
+3769,Mrs.,Lauryn,L,Docherty,AMEX,,female,41,Urban,Yes,34494,Single,Yes,Level2,2,2,Yes,Business
+3773,Mr.,Leyton,E,Allan,AMEX,,male,56,Urban,Yes,42036,Single,Yes,Level2,1,2,No,
+3780,Mr.,Kian,K,Millar,,,male,20,Rural,Yes,22438,Bundle,Yes,Level1,0,0,Yes,Standard
+3783,Mr.,Wiktor,I,Miller,Visa,Fish and game warden,male,48,Urban,Yes,19307,Single,Yes,Level2,0,3,No,
+3786,Mrs.,Billie,A,Smith,Visa,Two-stroke engine mechanic,female,47,Urban,Yes,37770,Single,Yes,Level2,2,3,Yes,Business
+3787,Ms.,Matilda,M,Johnston,Visa,,female,19,Urban,No,,,No,,,,No,
+3791,Mr.,Harley,P,Morrison,AMEX,Documentation specialist,male,46,Rural,Yes,14877,Single,Yes,Level2,1,2,No,
+3795,Ms.,Shelby,B,Brown,Visa,,female,49,Urban,Yes,34621,Single,Yes,Level2,2,3,Yes,Standard
+3796,Ms.,Oliwia,J,Jamieson,Visa,,female,21,Urban,Yes,25794,Bundle,Yes,Level1,1,0,Yes,Business
+3797,Ms.,Teagan,L,Kerr,Visa,Desktop publisher,female,51,Urban,No,,,Yes,Level2,1,2,No,
+3799,Mr.,Gordon,P,Hughes,Visa,,male,52,Rural,Yes,13446,Single,Yes,Level2,2,3,No,
+3801,Mr.,Mohammed,P,Hill,Visa,,male,50,Rural,Yes,20324,Single,Yes,Level3,1,2,No,
+3812,Mr.,Charles,S,White,Visa,Medical social worker,male,18,Urban,No,,,No,,,,No,
+3815,Ms.,Abbie,B,Iqbal,Visa,Job printer,female,47,Rural,Yes,12590,Single,Yes,Level2,2,2,No,
+3821,Mrs.,Jennifer,F,Moran,,,female,21,Urban,Yes,25406,Bundle,No,,,,Yes,Premium
+3826,Mrs.,Abbie,D,French,AMEX,,female,52,Rural,No,,,No,,,,No,
+3840,Mr.,Finley,A,Simpson,Visa,Real estate agent,male,46,Urban,Yes,38311,Single,Yes,Level1,1,3,No,
+3849,Mr.,Henry,S,Hicks,AMEX,,male,22,Rural,Yes,41750,Bundle,No,,,,Yes,Business
+3865,Mr.,Antony,O,Taylor,AMEX,,male,70,Rural,Yes,25993,Single,Yes,Level1,1,0,Yes,Senior
+3866,Ms.,Amber,J,Fletcher,Visa,,female,21,Urban,No,,,No,,,,No,
+3870,Mrs.,Rachel,C,Macleod,AMEX,Usher,female,49,Rural,Yes,18077,Single,Yes,Level2,1,2,No,
+3871,Mr.,Gary,L,Johnston,AMEX,,male,47,Rural,Yes,15441,Single,Yes,Level2,0,3,No,
+3873,Ms.,McKenzie,N,Taylor,Visa,U.S. Marshal,female,46,Urban,Yes,14240,Single,No,,,,No,
+3875,Mr.,Joe,M,Baxter,,Private household cook,male,50,Urban,Yes,32892,Single,Yes,Level3,1,2,No,
+3879,Ms.,Natasha,T,Willis,AMEX,Emergency and disaster response worker,female,49,Urban,Yes,28576,Single,Yes,Level3,0,2,Yes,Premium
+3880,Ms.,Elsie,A,Kerr,Visa,,female,22,Rural,Yes,28205,Bundle,Yes,Level1,0,0,Yes,Business
+3883,Ms.,Chelsea,C,Andrews,AMEX,HVACR technician,female,49,Rural,Yes,9921,Single,Yes,Level1,0,2,No,
+3890,Ms.,Naomi,J,Perry,AMEX,Workforce development specialist,female,50,Rural,Yes,14652,Single,Yes,Level2,2,2,No,
+3896,Mr.,Connor,M,Reilly,,,male,20,Urban,Yes,4659,Single,No,,,,Yes,Backpacker
+3897,Mr.,Ben,S,Howells,,,male,50,Rural,Yes,16484,Single,Yes,Level1,1,2,Yes,Business
+3898,Mrs.,Constance,Z,Douglas,Visa,,female,45,Urban,Yes,27397,Single,Yes,Level1,0,2,No,
+3902,Ms.,Melissa,J,Perkins,Visa,Community supervision officer,female,48,Rural,Yes,17840,Single,Yes,Level2,2,2,No,
+3904,Mrs.,Isabel,B,Rose,Visa,,female,50,Rural,Yes,16819,Single,Yes,Level2,1,2,No,
+3912,Mr.,Thomas,C,Potts,Visa,Tow truck dispatcher,male,21,Rural,Yes,28706,Bundle,No,,,,Yes,Backpacker
+3913,Mr.,Sean,M,Potts,AMEX,Staffing coordinator,male,22,Urban,No,,,No,,,,Yes,Backpacker
+3927,Mr.,Jacob,K,Reed,,Court reporter,male,44,Urban,Yes,33888,Single,Yes,Level2,1,3,Yes,Backpacker
+3934,Mrs.,Aimee,J,Murray,AMEX,Administrative leader,female,51,Urban,No,,,No,,,,No,
+3935,Ms.,Rachel,S,Bibi,Visa,,female,45,Urban,Yes,36706,Single,Yes,Level2,1,3,Yes,Standard
+3936,Mrs.,Gracie,M,Vaughan,,Prepress worker,female,21,Urban,Yes,31705,Bundle,No,,,,Yes,Business
+3945,Mr.,Robert,F,Poole,AMEX,,male,49,Urban,Yes,33990,Single,Yes,Level2,1,2,No,
+3949,Mr.,Oscar,A,Fletcher,Visa,,male,51,Rural,No,,,Yes,Level1,1,2,No,
+3951,Mrs.,Eryn,E,Alexander,,Gemologist,female,49,Urban,Yes,35273,Bundle,No,,,,Yes,Standard
+3955,Ms.,Kayleigh,N,Iqbal,AMEX,,female,51,Rural,Yes,14558,Single,Yes,Level1,0,2,No,
+3968,Mr.,Nikodem,E,Johnston,,Property disposal specialist,male,48,Rural,Yes,18847,Single,Yes,Level2,1,2,No,
+3973,Mr.,Anton,T,Hay,AMEX,Talking-books clerk,male,47,Urban,Yes,35508,Single,Yes,Level2,1,3,Yes,Business
+3976,Mr.,Taylor,Z,Webster,,Yardmaster,male,47,Urban,Yes,36789,Single,Yes,Level2,1,3,No,
+3987,Mr.,Callum,K,Lee,Visa,,male,49,Urban,Yes,36276,Single,Yes,Level2,0,2,Yes,Standard
+3988,Ms.,Kerris,N,Reid,AMEX,Head hunter,female,45,Rural,Yes,10493,Single,Yes,Level2,0,2,Yes,Business
+3997,Mr.,Ellis,L,Walton,AMEX,,male,48,Rural,Yes,15915,Single,Yes,Level2,1,3,No,
+4001,Mrs.,Nicole,J,Howe,Visa,,female,52,Rural,Yes,12981,Single,No,,,,No,
+4007,Ms.,Samantha,N,Murray,Visa,Record clerk,female,45,Urban,Yes,29196,Single,No,,,,No,
+4015,Mrs.,Arianna,H,Jones,Visa,,female,44,Rural,Yes,31282,Single,No,,,,Yes,Standard
+4018,Mrs.,Bethany,R,Grant,Visa,,female,44,Urban,Yes,29344,Single,Yes,Level2,0,2,No,
+4026,Ms.,Ruby,E,Peacock,Visa,Electrical and electronics installer,female,48,Rural,Yes,10954,Single,Yes,Level2,1,2,No,
+4027,Mr.,Jaiden,K,Hunter,,,male,19,Urban,Yes,5233,Bundle,No,,,,Yes,Premium
+4033,Mrs.,Louise,D,Fraser,Visa,Aircraft electronics specialist,female,21,Urban,Yes,24335,Bundle,No,,,,Yes,Standard
+4035,Mr.,Owen,A,Rahman,,,male,22,Urban,No,,,Yes,Level1,2,0,No,
+4037,Ms.,Katherine,S,Walton,,,female,48,Rural,No,,,Yes,Level1,0,3,No,
+4039,Mr.,Blair,A,Findlay,AMEX,,male,62,Urban,Yes,23412,Single,Yes,Level3,1,0,No,
+4042,Mrs.,Nadia,B,Mackay,Visa,Personal chef,female,56,Urban,Yes,15522,Single,Yes,Level2,1,3,No,
+4048,Ms.,Tegan,N,Thompson,Visa,,female,44,Rural,Yes,16735,Single,Yes,Level2,1,2,Yes,Standard
+4060,Mr.,Cyrus,A,MacDonald,Visa,,male,60,Rural,Yes,22583,Single,Yes,Level1,0,0,Yes,Senior
+4063,Mr.,Scott,A,Vaughan,AMEX,Chiropractor,male,51,Rural,Yes,15020,Single,Yes,Level1,1,3,No,
+4071,Mrs.,Morgan,M,Patel,Visa,,female,19,Urban,Yes,21244,Bundle,No,,,,Yes,Backpacker
+4072,Ms.,Laura,C,Dickson,AMEX,Community dietitian,female,50,Rural,Yes,16028,Single,No,,,,No,
+4080,Mr.,Caelan,S,Brown,AMEX,Personnel director,male,18,Rural,Yes,4997,Bundle,No,,,,Yes,Backpacker
+4081,Ms.,Millie,R,Hardy,AMEX,Critical care nurse,female,21,Urban,Yes,26931,Bundle,Yes,Level1,0,0,Yes,Premium
+4090,Mr.,Mason,B,Bolton,AMEX,Window clerk,male,43,Urban,Yes,29697,Single,Yes,Level2,1,2,Yes,Business
+4091,Mr.,Francis,S,Duncan,AMEX,,male,52,Rural,Yes,12796,Bundle,Yes,Level3,1,3,No,
+4094,Mr.,Jude,S,Moran,,Metal-refining furnace tender,male,45,Urban,Yes,38464,Single,Yes,Level1,2,3,No,
+4097,Mrs.,Ava,H,Ritchie,,Junior high school teacher,female,51,Urban,Yes,33539,Single,No,,,,Yes,Business
+4098,Mr.,Kacper,S,Hughes,AMEX,Cutting and slicing machine tender,male,44,Rural,Yes,30435,Single,Yes,Level3,1,3,Yes,Standard
+4112,Mrs.,Tia,B,Metcalfe,AMEX,,female,51,Rural,Yes,16043,Single,No,,,,No,
+4117,Mr.,Ryan,A,Griffin,AMEX,,male,44,Rural,Yes,35305,Single,Yes,Level2,2,2,No,
+4131,Dr.,Kelsie,S,Murray,,Translator,female,23,Rural,Yes,19438,Bundle,No,,,,Yes,Standard
+4138,Ms.,Olivia,A,Stewart,,Transportation inspector,female,20,Urban,No,,,Yes,Level2,0,0,Yes,Premium
+4144,Mr.,Chris,L,Cameron,AMEX,Ordnance handling expert,male,50,Rural,Yes,15591,Bundle,No,,,,No,
+4145,Mrs.,Lucy,A,Ross,Visa,,female,52,Urban,Yes,34936,Single,Yes,Level2,1,2,No,
+4158,Mr.,Aden,M,Boyle,,Shoe and leather repairer,male,41,Urban,No,,,Yes,Level2,1,3,Yes,Standard
+4160,Mrs.,Lea,M,Munro,,Writer,female,18,Urban,Yes,4769,Bundle,No,,,,No,
+4165,Ms.,Tilly,H,Garner,Visa,,female,47,Urban,Yes,29216,Single,No,,,,No,
+4168,Dr.,Kieran,L,Peacock,,Office clerk,male,18,Rural,Yes,19844,Bundle,No,,,,Yes,Standard
+4169,Mr.,Jamie,A,Holmes,Visa,,male,52,Urban,Yes,41175,Single,Yes,Level2,2,2,Yes,Premium
+4171,Mr.,Jude,T,Bell,AMEX,Control room trainee,male,18,Urban,Yes,29221,Bundle,No,,,,Yes,Business
+4177,Ms.,Sadie,B,Jones,Visa,,female,51,Urban,Yes,12393,Bundle,No,,,,No,
+4178,Mr.,James,M,McDonald,AMEX,Keeper,male,54,Urban,No,,,No,,,,No,
+4182,Mr.,Preston,K,Thomson,AMEX,,male,69,Rural,No,,,Yes,Level3,1,0,No,
+4185,Mr.,Archie,M,Robertson,AMEX,Employee benefits specialist,male,18,Rural,Yes,23265,Single,Yes,Level1,0,0,Yes,Business
+4188,Ms.,Libby,K,Burgess,AMEX,Hydrographic surveyor,female,49,Rural,Yes,18691,Single,Yes,Level2,0,2,Yes,Business
+4193,Ms.,Naomi,R,Knowles,AMEX,Roof bolter,female,22,Urban,Yes,5118,Bundle,No,,,,No,
+4196,Ms.,Louise,D,Short,Visa,,female,51,Rural,Yes,15111,Single,No,,,,No,
+4198,Mrs.,Melanie,E,Robertson,AMEX,Refuge manager,female,51,Urban,Yes,35299,Single,No,,,,Yes,Business
+4207,Ms.,Mollie,J,Buckley,,Education and training manager,female,44,Urban,Yes,27918,Single,Yes,Level1,1,2,Yes,Business
+4211,Mr.,Finley,J,Perkins,AMEX,,male,47,Rural,Yes,16078,Single,Yes,Level1,1,2,No,
+4212,Mr.,Noah,L,Bishop,Visa,,male,19,Rural,Yes,23767,Single,No,,,,Yes,Premium
+4213,Mrs.,Maya,S,Hurst,Visa,Street vendor,female,44,Rural,Yes,14341,Single,Yes,Level2,1,3,No,
+4214,Mr.,Dominic,A,Rogers,Visa,Charter bus driver,male,19,Urban,No,,,No,,,,No,
+4215,Mr.,Kai,C,Godfrey,Visa,Data entry worker,male,50,Urban,Yes,34114,Single,Yes,Level2,1,2,Yes,Backpacker
+4219,Mrs.,Skye,K,Hicks,AMEX,Microbiology technologist,female,71,Urban,Yes,29782,Single,Yes,Level2,0,0,Yes,Business
+4222,Ms.,Abi,S,Walker,Visa,Department manager,female,43,Urban,Yes,41704,Single,Yes,Level3,0,3,Yes,Premium
+4224,Mr.,Luca,E,Miah,Visa,Hairstylist,male,55,Rural,Yes,15871,Single,Yes,Level2,1,2,No,
+4232,Ms.,Isabella,C,Holt,Visa,,female,42,Rural,Yes,12538,Single,Yes,Level2,2,2,No,
+4233,Mr.,Oscar,A,Archer,,Excavating operator,male,21,Urban,Yes,25727,Single,Yes,Level1,0,0,Yes,Standard
+4245,Ms.,Gracie,M,McKenzie,Visa,Public safety dispatcher,female,51,Rural,No,,,Yes,Level1,1,2,No,
+4252,Mr.,Lee,M,Marshall,Visa,,male,50,Urban,Yes,40538,Single,No,,,,Yes,Business
+4254,Mr.,Max,H,Bibi,Visa,,male,50,Rural,Yes,16677,Single,Yes,Level3,1,2,Yes,Standard
+4256,Mr.,Declan,A,Walsh,Visa,,male,46,Rural,Yes,35036,Single,Yes,Level2,1,2,No,
+4257,Mr.,Leon,E,Lambert,AMEX,,male,41,Rural,Yes,34378,Single,Yes,Level3,0,2,Yes,Business
+4261,Ms.,Morgan,I,Mistry,AMEX,,female,50,Rural,Yes,33158,Single,Yes,Level3,0,3,Yes,Premium
+4262,Mr.,Dennis,K,Findlay,Visa,Central office operator,male,46,Urban,Yes,36064,Single,Yes,Level3,1,2,Yes,Premium
+4268,Mrs.,Mairi,M,Allan,Visa,,female,71,Rural,Yes,27951,Bundle,Yes,Level3,1,0,Yes,Senior
+4276,Mrs.,Bethany,J,Craig,Visa,Bartender,female,23,Urban,Yes,26978,Bundle,No,,,,Yes,Business
+4282,Mr.,Cillian,E,Walker,,,male,71,Urban,No,,,Yes,Level3,2,0,Yes,Senior
+4285,Mr.,Calvin,M,Wood,Visa,Public health social worker,male,20,Urban,Yes,5067,Bundle,No,,,,Yes,Backpacker
+4287,Mr.,Kai,E,Fry,Visa,Camera repairer,male,47,Urban,Yes,34872,Single,Yes,Level1,0,3,No,
+4290,Ms.,Zofia,M,McIntyre,AMEX,,female,52,Rural,Yes,18779,Single,Yes,Level2,0,3,No,
+4292,Mr.,Riley,L,Findlay,AMEX,Periodontist,male,21,Urban,Yes,5063,Bundle,No,,,,Yes,Backpacker
+4293,Ms.,Harriet,J,Evans,AMEX,,female,44,Rural,Yes,10477,Single,Yes,Level2,0,2,No,
+4299,Mr.,Aedan,A,Milne,Visa,,male,47,Rural,Yes,16318,Single,Yes,Level1,0,2,Yes,Standard
+4300,Mr.,Ewan,F,Burton,AMEX,Clinical laboratory scientist,male,49,Urban,Yes,37430,Single,No,,,,No,
+4304,Dr.,Subhan,A,McMillan,,Documentation specialist,male,49,Rural,Yes,13235,Single,No,,,,Yes,Standard
+4305,Ms.,Lily,J,Hope,Visa,Cardiologist,female,21,Urban,Yes,4817,Bundle,Yes,Level1,0,0,Yes,Premium
+4310,Mr.,Luca,M,Lawson,AMEX,Assignment clerk,male,66,Urban,No,,,Yes,Level3,0,0,Yes,Senior
+4314,Mr.,Tyler,M,McKenzie,AMEX,,male,47,Urban,Yes,12858,Single,Yes,Level2,1,2,No,
+4317,Mrs.,Willow,R,Johnstone,Visa,,female,48,Urban,Yes,35483,Single,No,,,,Yes,Standard
+4321,Mr.,Cayden,L,Ferguson,AMEX,Farm equipment mechanic,male,23,Urban,No,,,No,,,,No,
+4325,Mr.,Harry,E,Hardy,Visa,Purchasing agent,male,18,Urban,No,,,No,,,,Yes,Standard
+4334,Mr.,Nathan,I,Rowe,Visa,,male,18,Urban,Yes,31963,Bundle,No,,,,Yes,Business
+4336,Mrs.,Elise,J,Lamb,,Textile knitting and weaving machine tender,female,50,Urban,No,,,Yes,Level2,1,3,No,
+4339,Mr.,Adrian,M,Macleod,Visa,Chemical plant and system operator,male,52,Rural,No,,,Yes,Level2,1,3,Yes,Standard
+4357,Mrs.,Amy,M,Barry,AMEX,,female,21,Urban,No,,,Yes,Level1,0,0,Yes,Premium
+4358,Ms.,Sophie,J,Gardner,Visa,Electronic publisher,female,25,Urban,No,,,No,,,,Yes,Premium
+4361,Mrs.,Amelie,C,Ferguson,AMEX,,female,20,Rural,Yes,4810,Bundle,Yes,Level1,0,0,Yes,Premium
+4363,Mr.,Corey,E,Butler,,Assistant editor,male,47,Rural,Yes,34568,Single,Yes,Level2,1,3,No,
+4365,Mr.,Matthew,G,Rahman,AMEX,Staff manager,male,48,Urban,Yes,25948,Single,Yes,Level2,0,3,Yes,Premium
+4369,Ms.,Eve,J,Wallace,Visa,,female,48,Rural,Yes,15158,Single,Yes,Level2,0,2,No,
+4370,Mrs.,Katherine,D,Johnson,AMEX,Recreational vehicle service technician,female,21,Urban,No,,,No,,,,Yes,Backpacker
+4377,Mr.,Patrick,B,Gibson,Visa,Defense attorney,male,53,Urban,Yes,36507,Single,Yes,Level2,1,2,No,
+4379,Ms.,Emilia,R,King,AMEX,,female,45,Urban,Yes,41708,Single,Yes,Level2,2,3,No,
+4386,Mrs.,Amiee,S,Cunningham,,Agronomist,female,54,Urban,Yes,34186,Bundle,Yes,Level3,1,3,No,
+4388,Mr.,William,S,Jarvis,AMEX,Milling and planing machine setter,male,20,Urban,Yes,23586,Bundle,No,,,,Yes,Business
+4390,Ms.,Zara,J,Clements,AMEX,Oceanographer,female,21,Urban,No,,,Yes,Level1,0,0,Yes,Premium
+4396,Mrs.,Rose,C,Reid,AMEX,Apartment rental agent,female,57,Rural,Yes,15841,Single,Yes,Level3,0,2,No,
+4405,Mr.,Nico,J,McIntosh,Visa,Server,male,22,Rural,Yes,20739,Single,No,,,,Yes,Premium
+4407,Mr.,Shane,K,Gibson,AMEX,Technologist,male,43,Urban,Yes,34876,Single,No,,,,No,
+4408,Mr.,Elliot,R,Johnston,AMEX,,male,46,Rural,Yes,9618,Single,Yes,Level2,1,2,No,
+4411,Ms.,Tamzin,K,Gray,,,female,18,Rural,Yes,21449,Bundle,No,,,,Yes,Business
+4414,Mr.,Ahmad,M,Gray,AMEX,Record center clerk,male,48,Urban,Yes,36508,Bundle,No,,,,Yes,Business
+4417,Mrs.,Maddison,C,Mistry,AMEX,,female,24,Urban,Yes,4666,Bundle,No,,,,Yes,Premium
+4418,Mr.,Henry,A,Harrison,Visa,Construction electrician,male,48,Urban,Yes,40483,Single,Yes,Level2,2,3,No,
+4422,Mr.,Aston,E,McKay,Visa,Actuarie,male,48,Rural,No,,,Yes,Level1,1,2,No,
+4432,Mr.,Aaron,N,Hughes,Visa,Safety technician,male,53,Urban,Yes,29985,Bundle,Yes,Level1,1,2,Yes,Standard
+4435,Ms.,Amber,T,May,AMEX,Photogrammetrist,female,18,Rural,No,,,No,,,,No,
+4436,Mrs.,Leigha,T,Martin,AMEX,Title searcher,female,47,Urban,Yes,32750,Single,Yes,Level2,1,2,No,
+4450,Mr.,Marc,E,Ferguson,,Baker,male,48,Urban,Yes,28699,Single,Yes,Level2,0,2,Yes,Business
+4456,Mr.,Max,H,Manning,AMEX,Research chef,male,24,Urban,Yes,30380,Bundle,No,,,,Yes,Business
+4460,Mr.,Luke,L,Thornton,AMEX,Construction manager,male,51,Rural,Yes,8539,Single,Yes,Level2,2,3,Yes,Premium
+4465,Mr.,Damian,D,McIntyre,Visa,Real estate broker,male,67,Rural,Yes,33329,Single,Yes,Level3,0,0,Yes,Senior
+4478,Mr.,Henry,E,Russell,,Library clerk,male,48,Urban,Yes,31755,Single,Yes,Level1,1,3,No,
+4483,Mr.,Ethan,M,Carter,Visa,Gerontology aide,male,18,Urban,No,,,No,,,,Yes,Premium
+4485,Ms.,Lillian,L,Hunter,Visa,,female,19,Urban,No,,,No,,,,Yes,Premium
+4489,Mr.,Greg,A,Ritchie,,,male,46,Urban,Yes,36672,Single,Yes,Level2,1,2,No,
+4497,Mrs.,Sophie,M,Cartwright,AMEX,Passenger rate clerk,female,49,Rural,Yes,9902,Single,Yes,Level2,2,2,Yes,Standard
+4501,Ms.,Evelyn,B,Milne,AMEX,Graphic artist,female,42,Urban,Yes,33024,Single,Yes,Level2,2,3,Yes,Standard
+4502,Mr.,Keiran,B,Cameron,Visa,Employer relations representative,male,53,Urban,Yes,33050,Single,Yes,Level1,1,2,No,
+4503,Mrs.,Emilie,J,Mackenzie,Visa,Design printing machine operator,female,46,Rural,Yes,11721,Single,No,,,,No,
+4511,Mr.,Connor,S,Gough,Visa,CT technologist,male,48,Rural,Yes,16488,Single,Yes,Level2,1,3,Yes,Premium
+4512,Ms.,Andi,G,Kelly,Visa,,female,43,Urban,Yes,28013,Single,Yes,Level2,2,2,No,
+4514,Mrs.,Karly,P,Gibson,Visa,Cosmetologist,female,46,Rural,Yes,13201,Single,Yes,Level2,2,3,Yes,Standard
+4523,Mr.,Conner,C,Murphy,Visa,,male,20,Urban,Yes,5056,Bundle,Yes,Level3,2,0,No,
+4527,Ms.,Millie,T,Farrell,AMEX,Computer control operator,female,42,Urban,Yes,40229,Single,Yes,Level3,1,2,No,
+4528,Ms.,Charlotte,R,Wilkinson,,Film and video editor,female,49,Rural,Yes,31758,Single,No,,,,No,
+4530,Ms.,Sophia,A,Humphries,AMEX,Commodities trader,female,19,Rural,Yes,28258,Bundle,Yes,Level1,0,0,No,
+4535,Mr.,Brandon,Y,Savage,Visa,,male,49,Urban,Yes,33753,Single,Yes,Level2,1,3,Yes,Business
+4549,Mrs.,India,K,Hay,Visa,Qualified members of the engine department,female,48,Rural,Yes,17261,Single,Yes,Level3,1,2,Yes,Business
+4550,Mr.,Lloyd,M,Douglas,,Field technician,male,50,Urban,Yes,34392,Single,Yes,Level3,1,2,Yes,Business
+4562,Mr.,Sean,T,Coates,AMEX,,male,20,Urban,Yes,26291,Bundle,No,,,,Yes,Standard
+4567,Ms.,Codi,D,Fleming,,,female,65,Rural,No,,,Yes,Level2,1,0,No,
+4569,Mr.,Ronan,D,Morrison,AMEX,,male,21,Urban,Yes,5354,Bundle,No,,,,No,
+4570,Ms.,Alicia,M,Stevenson,Visa,Digital image processor,female,45,Urban,Yes,39726,Single,No,,,,Yes,Business
+4572,Mrs.,Brianna,S,Wallace,Visa,,female,18,Urban,Yes,5022,Bundle,No,,,,Yes,Backpacker
+4576,Mr.,Olivier,N,Gray,Visa,Group exercise instructor,male,48,Urban,Yes,31557,Single,Yes,Level2,0,3,No,
+4581,Mr.,Samuel,E,Ingram,AMEX,,male,20,Rural,Yes,26547,Bundle,No,,,,Yes,Business
+4583,Mrs.,Isabelle,H,Middleton,Visa,,female,50,Urban,Yes,11941,Single,No,,,,No,
+4587,Ms.,Kate,R,Abbott,Visa,Drywall installer,female,47,Urban,Yes,31877,Single,Yes,Level2,0,2,No,
+4590,Mr.,Hayden,G,Anderson,Visa,Stock trader,male,53,Rural,Yes,15924,Single,Yes,Level2,0,2,No,
+4593,Ms.,Ameera,B,Boyle,,Foot doctor,female,54,Urban,Yes,32836,Single,Yes,Level2,0,2,Yes,Standard
+4596,Mr.,Kelvin,A,Bruce,AMEX,Foreign language translator,male,18,Urban,Yes,28478,Bundle,No,,,,Yes,Backpacker
+4597,Ms.,Chantelle,J,Milne,AMEX,,female,48,Urban,Yes,35722,Single,Yes,Level1,1,3,No,
+4599,Mr.,Leland,M,Morrison,AMEX,Front desk clerk,male,21,Urban,No,,,No,,,,No,
+4624,Mr.,Connor,N,Bray,AMEX,Network administrator,male,43,Rural,Yes,17612,Single,Yes,Level1,2,2,No,
+4626,Dr.,Amber,C,White,,,female,52,Rural,Yes,14494,Single,Yes,Level2,1,3,Yes,Standard
+4634,Ms.,Libby,S,Collier,,Promotions specialist,female,52,Rural,Yes,13089,Single,Yes,Level2,1,2,No,
+4636,Mr.,Edward,N,Morris,Visa,Civil service clerk,male,42,Urban,Yes,31227,Bundle,Yes,Level2,1,2,No,
+4643,Ms.,Shannon,E,Smith,AMEX,,female,44,Urban,No,,,Yes,Level3,0,2,No,
+4651,Mr.,Forbes,T,Forbes,AMEX,,male,18,Urban,No,,,No,,,,No,
+4658,Mr.,Michael,D,Whittaker,Visa,Logistician,male,49,Rural,Yes,18230,Single,Yes,Level2,2,3,No,
+4659,Mrs.,Lily,H,Dixon,AMEX,Airframe mechanic,female,18,Rural,Yes,5252,Bundle,No,,,,Yes,Premium
+4672,Mr.,Kieron,Z,Hughes,AMEX,,male,47,Urban,Yes,30721,Single,Yes,Level2,1,3,No,
+4679,Dr.,Gracie,D,Gill,AMEX,,female,40,Urban,No,,,Yes,Level1,1,2,Yes,Backpacker
+4689,Ms.,Isobel,L,Lane,Visa,Gaming change person,female,22,Urban,Yes,4902,Bundle,No,,,,No,
+4693,Dr.,Rachel,J,Joyce,AMEX,Conservation technician,female,19,Urban,Yes,5135,Bundle,No,,,,No,
+4694,Mr.,Dominic,M,Finch,,Content editor,male,20,Urban,Yes,20870,Bundle,No,,,,Yes,Premium
+4697,Mr.,Oliver,S,Stevens,Visa,,male,21,Urban,Yes,20727,Bundle,Yes,Level1,0,0,Yes,Standard
+4700,Mrs.,Louise,W,Hussain,AMEX,Electronic equipment repairer,female,19,Urban,Yes,31581,Bundle,Yes,Level1,0,0,No,
+4704,Mr.,Sebastian,A,Dickson,AMEX,,male,41,Rural,Yes,17299,Single,Yes,Level2,1,2,No,
+4712,Mrs.,Rachel,J,Gardiner,Visa,Pathologist,female,21,Rural,No,,,Yes,Level1,0,0,Yes,Premium
+4713,Mrs.,Scarlett,J,Douglas,AMEX,Plant manager,female,66,Rural,No,,,Yes,Level3,1,0,Yes,Standard
+4714,Ms.,Amber,A,Price,AMEX,Ultrasound technologist,female,51,Urban,Yes,31389,Single,Yes,Level2,1,2,Yes,Standard
+4716,Mr.,Thomas,B,Horton,AMEX,Industrial economist,male,19,Rural,Yes,26267,Bundle,No,,,,Yes,Business
+4724,Ms.,Eva,J,Hale,Visa,Automotive mechanic,female,43,Rural,Yes,32221,Single,Yes,Level3,1,2,Yes,Standard
+4730,Mrs.,Catherine,C,Boyle,,Meter reader,female,41,Urban,Yes,29788,Single,No,,,,No,
+4737,Mr.,Jak,M,McMillan,AMEX,Ratings analyst,male,45,Rural,Yes,11661,Single,Yes,Level2,1,3,No,
+4748,Mrs.,Teagan,R,Macleod,Visa,Stucco mason,female,43,Urban,Yes,31671,Single,Yes,Level1,0,3,No,
+4756,Mr.,Sean,A,Ross,Visa,Erector,male,47,Rural,Yes,17295,Bundle,Yes,Level3,1,2,No,
+4758,Ms.,Rebecca,E,Allen,Visa,,female,64,Urban,Yes,27421,Single,Yes,Level3,0,0,Yes,Senior
+4764,Ms.,Addison,P,Johnston,Visa,Laboratory animal technologist,female,72,Urban,No,,,Yes,Level3,0,0,No,
+4766,Ms.,Erin,B,Watts,AMEX,Operating engineer,female,51,Rural,Yes,33807,Single,No,,,,Yes,Business
+4771,Mr.,Edward,M,Dickinson,Visa,Teletype operator,male,73,Rural,No,,,Yes,Level1,0,0,No,
+4783,Mr.,Max,S,Ali,AMEX,Addictions nurse,male,45,Urban,Yes,27587,Single,Yes,Level2,1,2,No,
+4785,Ms.,Constance,T,McKay,,High school counselor,female,20,Urban,Yes,20855,Bundle,No,,,,Yes,Backpacker
+4786,Mr.,Spencer,Z,Law,,Certified pest control applicator,male,48,Urban,Yes,42926,Single,Yes,Level1,1,3,No,
+4791,Mr.,Zain,K,Christie,,,male,67,Rural,Yes,34578,Bundle,Yes,Level1,0,0,Yes,Standard
+4800,Ms.,Eilidh,A,Hughes,Visa,Semiconductor processing technician,female,20,Rural,Yes,4775,Bundle,No,,,,Yes,Backpacker
+4808,Mrs.,Jasmin,N,Munro,Visa,,female,24,Urban,Yes,21775,Bundle,No,,,,Yes,Premium
+4811,Mr.,Jacob,E,Gardner,Visa,Crossing guard,male,19,Urban,No,,,No,,,,Yes,Backpacker
+4812,Mr.,Max,L,Gallagher,Visa,,male,47,Rural,No,,,No,,,,No,
+4813,Mr.,Ryan,P,Alexander,AMEX,Network and computer systems administrator,male,20,Rural,Yes,25376,Bundle,No,,,,Yes,Premium
+4822,Mr.,Adam,E,Sanderson,,,male,47,Urban,Yes,31261,Single,Yes,Level3,1,3,Yes,Standard
+4827,Dr.,Victoria,A,Willis,,Power plant distributor,female,18,Urban,Yes,17740,Bundle,Yes,Level2,0,0,No,
+4837,Ms.,Carly,D,McIntosh,AMEX,Ophthalmologic sonographer,female,52,Urban,Yes,16740,Single,Yes,Level2,0,3,No,
+4841,Mr.,Jayden,A,Kelly,Visa,,male,72,Rural,Yes,28539,Single,No,,,,No,
+4851,Mrs.,Mia,H,Middleton,Visa,Convention planner,female,49,Urban,Yes,19744,Single,Yes,Level2,2,2,Yes,Business
+4857,Mr.,Jayden,A,Simpson,AMEX,,male,52,Rural,No,,,No,,,,No,
+4862,Dr.,Filip,S,Christie,Visa,,male,74,Rural,No,,,Yes,Level3,1,0,Yes,Business
+4866,Mrs.,Cailyn,B,Smith,Visa,Medical social worker,female,43,Urban,Yes,31163,Single,Yes,Level1,1,3,Yes,Business
+4874,Ms.,Sarah,K,Iqbal,,,female,45,Urban,Yes,22418,Single,Yes,Level1,1,3,No,
+4879,Ms.,Brooke,J,Bates,Visa,,female,18,Urban,No,,,No,,,,Yes,Backpacker
+4882,Mrs.,Katie,A,Simpson,,Microbiology technologist,female,45,Urban,Yes,34497,Single,Yes,Level1,1,3,No,
+4886,Ms.,Evelyn,W,Allan,Visa,Personal and home care aide,female,50,Urban,Yes,30143,Single,No,,,,Yes,Standard
+4893,Mr.,Ethan,O,Ellis,AMEX,,male,48,Urban,Yes,19142,Single,Yes,Level2,0,3,No,
+4894,Ms.,Ella,C,Barton,AMEX,Slaughterer,female,21,Urban,Yes,4869,Bundle,Yes,Level1,0,0,Yes,Premium
+4897,Mr.,Marco,K,McIntyre,,Masseuse,male,48,Urban,No,,,Yes,Level2,1,2,Yes,Business
+4911,Mr.,Toby,N,Rowe,Visa,Electronics repairer,male,46,Rural,Yes,16890,Single,No,,,,Yes,Business
+4914,Mr.,Joseph,E,Chambers,Visa,Econometrician,male,52,Rural,Yes,8987,Single,No,,,,No,
+4922,Mr.,Mohammed,H,Simpson,AMEX,,male,52,Rural,Yes,16064,Single,Yes,Level2,1,3,No,
+4925,Mrs.,Bonnie,H,Jones,,,female,48,Urban,No,,,Yes,Level1,1,3,No,
+4927,Mr.,Oliver,A,Robson,,,male,73,Urban,Yes,24627,Bundle,Yes,Level2,0,0,Yes,Senior
+4940,Mr.,Louis,M,Cameron,,Merchandise window trimmer,male,45,Urban,Yes,37457,Single,Yes,Level2,1,2,No,
+4943,Mr.,Isaac,E,Hart,Visa,Funeral attendant,male,50,Urban,Yes,15693,Single,Yes,Level2,2,3,Yes,Standard
+4953,Mr.,Izaak,M,Christie,Visa,Refuge manager,male,42,Urban,Yes,35936,Single,Yes,Level3,0,2,No,
+4957,Mr.,Sebastian,K,Chandler,Visa,Instructional coach,male,47,Urban,Yes,18217,Single,Yes,Level2,0,2,No,
+4964,Dr.,Jodie,M,Hopkins,Visa,Claims examiner,female,47,Rural,Yes,17426,Single,No,,,,No,
+4973,Mrs.,Holly,Z,Tomlinson,AMEX,Adjuster,female,21,Urban,Yes,30351,Bundle,No,,,,Yes,Business
+4982,Mrs.,Ellie,O,Humphreys,,County court judge,female,20,Rural,Yes,24838,Bundle,Yes,Level2,0,0,Yes,Backpacker
+4983,Mr.,Baillie,A,McIntyre,Visa,,male,49,Rural,Yes,15940,Single,Yes,Level2,0,2,No,
+4992,Mrs.,Georgina,E,Burns,Visa,Landscape designer,female,47,Urban,Yes,13414,Single,Yes,Level1,1,2,No,
+4993,Ms.,Naomi,L,Joyce,Visa,,female,46,Urban,Yes,15459,Single,Yes,Level1,0,2,No,
+4996,Ms.,Alexis,F,Murphy,AMEX,,female,20,Urban,Yes,5037,Bundle,No,,,,Yes,Premium
+4998,Mr.,Corey,R,Sinclair,Visa,Marriage and family therapist,male,46,Rural,Yes,8480,Single,No,,,,No,
+5000,Mr.,Chris,J,Campbell,AMEX,Physician assistant,male,42,Urban,Yes,39383,Single,Yes,Level3,1,3,Yes,Premium
+5006,Mrs.,Aleisha,R,McIntyre,Visa,Operating room technician,female,20,Rural,Yes,13492,Bundle,No,,,,Yes,Premium
+5013,Mrs.,Codi,K,Donaldson,,Airport tower controller,female,53,Rural,No,,,Yes,Level2,0,2,No,
+5016,Mrs.,Tia,B,Hughes,Visa,,female,44,Urban,Yes,33275,Single,Yes,Level2,1,3,No,
+5022,Mr.,Calvin,S,Mackenzie,AMEX,,male,21,Urban,Yes,22660,Bundle,No,,,,No,
+5024,Mr.,Elliot,O,Abbott,AMEX,Poultry scientist,male,19,Urban,Yes,26969,Single,Yes,Level2,0,0,Yes,Backpacker
+5028,Mr.,Hayden,K,Cameron,AMEX,Economist,male,46,Urban,No,,,Yes,Level2,1,2,Yes,Standard
+5032,Mr.,Paul,T,Cunningham,Visa,,male,48,Rural,No,,,Yes,Level2,0,2,No,
+5034,Mrs.,Iris,L,Walker,,Archaeologist,female,48,Rural,Yes,11816,Single,No,,,,No,
+5035,Ms.,Eloise,A,Cole,AMEX,Airframe mechanic,female,49,Urban,Yes,17675,Single,Yes,Level2,1,2,Yes,Business
+5044,Mr.,Nathan,M,Stevens,Visa,,male,20,Urban,Yes,30638,Single,No,,,,Yes,Backpacker
+5051,Ms.,Eleanor,J,Swift,AMEX,Wildlife biologist,female,48,Rural,Yes,33336,Single,No,,,,Yes,Premium
+5055,Mr.,Lawrence,A,McKenzie,AMEX,Short haul or local truck driver,male,47,Urban,Yes,37111,Single,Yes,Level2,1,2,Yes,Standard
+5056,Mr.,Cameron,S,French,AMEX,Landscape contractor,male,46,Urban,Yes,34424,Single,Yes,Level2,0,2,Yes,Business
+5059,Ms.,Sophie,B,Scott,Visa,Clinical manager,female,48,Rural,Yes,14600,Single,Yes,Level1,0,3,No,
+5060,Ms.,Teigan,C,McLean,Visa,Mechanical door repairer,female,48,Rural,Yes,31219,Single,Yes,Level1,0,2,Yes,Business
+5062,Mr.,Ruaridh,D,Burns,,Construction electrician,male,47,Urban,Yes,40463,Single,Yes,Level3,1,2,No,
+5063,Mr.,Jaiden,K,McIntosh,,Environmental scientist,male,18,Rural,Yes,23828,Bundle,No,,,,No,
+5064,Mr.,Joey,A,McKenzie,,Polisher,male,68,Rural,Yes,27872,Single,Yes,Level3,0,0,Yes,Senior
+5066,Ms.,Courtney,E,Lamb,AMEX,Library assistant,female,47,Rural,Yes,35080,Single,Yes,Level2,1,3,No,
+5070,Ms.,Sophie,L,Kaur,AMEX,,female,19,Urban,No,,,No,,,,Yes,Premium
+5072,Ms.,Zara,O,Kelly,AMEX,,female,47,Urban,Yes,39743,Single,No,,,,No,
+5077,Mr.,Calum,B,Martin,AMEX,Political geographer,male,45,Urban,Yes,22910,Single,Yes,Level2,1,2,No,
+5078,Mr.,Rhys,E,Osborne,AMEX,Automotive body repairer,male,47,Urban,Yes,23904,Single,No,,,,Yes,Standard
+5085,Mrs.,Madeline,M,Wilson,Visa,Psychiatric technician,female,20,Urban,No,,,No,,,,Yes,Backpacker
+5086,Ms.,Molly,A,Gregory,Visa,,female,39,Urban,Yes,31492,Single,Yes,Level1,1,2,Yes,Business
+5091,Ms.,Karolina,M,Reilly,AMEX,Industrial millwright,female,47,Urban,Yes,36186,Single,Yes,Level3,0,3,Yes,Standard
+5107,Mr.,Lee,A,Mackenzie,Visa,Clerical assistant,male,49,Urban,Yes,17382,Single,Yes,Level1,2,3,No,
+5110,Ms.,Tilly,J,Whittaker,Visa,Junior high school teacher,female,50,Rural,No,,,Yes,Level2,1,2,No,
+5118,Ms.,Kacey,G,Smith,AMEX,,female,49,Urban,Yes,35521,Bundle,Yes,Level3,1,2,No,
+5119,Mr.,Scott,T,Forster,Visa,,male,49,Urban,Yes,39351,Single,Yes,Level2,1,3,No,
+5120,Mr.,Kyle,E,Morrison,AMEX,,male,49,Urban,No,,,Yes,Level2,1,3,Yes,Business
+5123,Mr.,Harvey,F,Allan,AMEX,Chemist,male,43,Urban,Yes,31081,Single,Yes,Level2,0,3,No,
+5129,Mrs.,Anna,C,Brennan,Visa,,female,20,Urban,Yes,28516,Bundle,No,,,,Yes,Premium
+5144,Mr.,Elijah,H,Ritchie,Visa,Short haul or local truck driver,male,44,Rural,No,,,No,,,,Yes,Standard
+5152,Mr.,Isaac,I,Hewitt,AMEX,,male,67,Urban,No,,,Yes,Level3,0,0,Yes,Senior
+5156,Ms.,Lily,J,Barton,,,female,59,Urban,Yes,27062,Single,Yes,Level3,1,0,No,
+5169,Mrs.,Eleanor,D,Bennett,AMEX,Medical laboratory technician,female,18,Rural,Yes,30271,Bundle,No,,,,Yes,Premium
+5176,Mrs.,Rebecca,P,Milne,Visa,,female,51,Urban,Yes,10999,Single,Yes,Level1,0,3,Yes,Standard
+5177,Mr.,Billy,C,Riley,Visa,En route controller,male,52,Rural,Yes,16622,Single,Yes,Level2,0,2,No,
+5179,Mr.,Russell,C,Shaw,Visa,Dipper,male,47,Rural,Yes,11277,Single,No,,,,No,
+5189,Mr.,Joseph,J,Taylor,,,male,50,Urban,Yes,32673,Single,Yes,Level3,2,2,No,
